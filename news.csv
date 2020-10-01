@@ -1,0 +1,3451 @@
+date,level,category
+2019/3/5,neural,business
+2019/3/5,positive,business
+2019/3/6,negative,business
+2019/3/6,negative,health
+2019/3/6,neural,entertainment
+2019/3/7,neural,health
+2019/3/9,neural,entertainment
+2019/3/11,neural,science and technology
+2019/3/11,super positive,business
+2019/3/11,neural,science and technology
+2019/3/11,neural,science and technology
+2019/3/12,positive,business
+2019/3/12,negative,science and technology
+2019/3/13,negative,science and technology
+2019/3/13,negative,business
+2019/3/14,positive,business
+2019/3/15,negative,business
+2019/3/15,positive,business
+2019/3/15,positive,business
+2019/3/15,positive,business
+2019/3/15,positive,business
+2019/3/15,neural,science and technology
+2019/3/17,neural,science and technology
+2019/3/18,neural,science and technology
+2019/3/18,neural,business
+2019/3/18,neural,business
+2019/3/20,positive,business
+2019/3/20,neural,business
+2019/3/20,negative,business
+2019/3/20,negative,science and technology
+2019/3/21,neural,business
+2019/3/21,positive,business
+2019/3/24,neural,science and technology
+2019/3/25,positive,business
+2019/3/27,neural,business
+2019/3/28,positive,business
+2019/3/28,positive,entertainment
+2019/3/28,neural,entertainment
+2019/3/28,neural,business
+2019/3/28,negative,business
+2019/3/28,positive,business
+2019/3/29,neural,business
+2019/3/29,neural,health
+2019/3/29,positive,business
+2019/3/29,neural,business
+2019/3/29,positive,business
+2019/3/29,negative,business
+2019/3/29,positive,business
+2019/3/30,neural,science and technology
+2019/4/1,neural,entertainment
+2019/4/1,neural,entertainment
+2019/4/1,negative,business
+2019/4/1,positive,entertainment
+2019/4/1,negative,business
+2019/4/1,neural,health
+2019/4/1,super negative,science and technology
+2019/4/1,positive,science and technology
+2019/4/2,neural,business
+2019/4/2,negative,business
+2019/4/2,positive,business
+2019/4/2,neural,business
+2019/4/2,positive,business
+2019/4/2,neural,business
+2019/4/2,positive,business
+2019/4/2,negative,science and technology
+2019/4/2,positive,business
+2019/4/2,neural,science and technology
+2019/4/2,positive,science and technology
+2019/4/2,neural,business
+2019/4/3,positive,business
+2019/4/3,neural,business
+2019/4/3,neural,business
+2019/4/3,neural,health
+2019/4/3,neural,business
+2019/4/3,positive,health
+2019/4/4,negative,business
+2019/4/4,positive,business
+2019/4/4,positive,business
+2019/4/4,neural,business
+2019/4/4,negative,business
+2019/4/4,neural,business
+2019/4/4,negative,business
+2019/4/4,neural,business
+2019/4/5,positive,business
+2019/4/5,super positive,business
+2019/4/5,super negative,entertainment
+2019/4/5,neural,business
+2019/4/5,neural,business
+2019/4/5,super positive,business
+2019/4/5,neural,entertainment
+2019/4/5,neural,science and technology
+2019/4/5,negative,science and technology
+2019/4/5,negative,business
+2019/4/7,neural,business
+2019/4/7,neural,business
+2019/4/8,neural,business
+2019/4/8,neural,entertainment
+2019/4/8,neural,business
+2019/4/9,neural,science and technology
+2019/4/9,neural,entertainment
+2019/4/9,super negative,entertainment
+2019/4/9,neural,business
+2019/4/9,negative,business
+2019/4/9,positive,entertainment
+2019/4/9,positive,business
+2019/4/10,neural,entertainment
+2019/4/10,positive,science and technology
+2019/4/10,neural,business
+2019/4/10,neural,entertainment
+2019/4/10,neural,business
+2019/4/10,neural,business
+2019/4/11,negative,business
+2019/4/11,super positive,business
+2019/4/11,negative,entertainment
+2019/4/11,positive,science and technology
+2019/4/11,positive,business
+2019/4/11,super negative,business
+2019/4/11,negative,science and technology
+2019/4/11,negative,entertainment
+2019/4/11,neural,science and technology
+2019/4/11,positive,business
+2019/4/11,neural,business
+2019/4/11,neural,science and technology
+2019/4/12,negative,business
+2019/4/12,positive,science and technology
+2019/4/12,neural,business
+2019/4/12,super negative,health
+2019/4/12,negative,business
+2019/4/12,positive,business
+2019/4/12,neural,science and technology
+2019/4/12,neural,entertainment
+2019/4/13,neural,entertainment
+2019/4/14,neural,entertainment
+2019/4/14,neural,entertainment
+2019/4/14,neural,business
+2019/4/14,positive,science and technology
+2019/4/14,neural,business
+2019/4/14,positive,health
+2019/4/14,super negative,health
+2019/4/15,negative,business
+2019/4/15,negative,science and technology
+2019/4/15,neural,science and technology
+2019/4/15,neural,science and technology
+2019/4/15,positive,business
+2019/4/15,neural,health
+2019/4/15,super positive,health
+2019/4/16,neural,entertainment
+2019/4/16,neural,health
+2019/4/17,super positive,entertainment
+2019/4/17,neural,business
+2019/4/17,neural,business
+2019/4/18,neural,science and technology
+2019/4/19,positive,business
+2019/4/20,negative,entertainment
+2019/4/20,negative,entertainment
+2019/4/21,positive,business
+2019/4/22,negative,entertainment
+2019/4/22,positive,business
+2019/4/22,negative,business
+2019/4/22,positive,business
+2019/4/22,negative,business
+2019/4/22,neural,science and technology
+2019/4/22,neural,business
+2019/4/23,neural,entertainment
+2019/4/23,neural,science and technology
+2019/4/23,negative,business
+2019/4/23,neural,science and technology
+2019/4/23,neural,business
+2019/4/24,positive,science and technology
+2019/4/24,negative,health
+2019/4/24,positive,entertainment
+2019/4/24,super negative,business
+2019/4/24,neural,science and technology
+2019/4/25,neural,business
+2019/4/25,neural,entertainment
+2019/4/26,positive,business
+2019/4/26,neural,business
+2019/4/26,negative,business
+2019/4/26,neural,business
+2019/4/26,positive,business
+2019/4/26,neural,entertainment
+2019/4/26,neural,business
+2019/4/26,neural,business
+2019/4/26,neural,business
+2019/4/26,neural,health
+2019/4/27,super negative,business
+2019/4/27,super negative,health
+2019/4/27,neural,business
+2019/4/28,neural,business
+2019/4/28,negative,entertainment
+2019/4/28,negative,science and technology
+2019/4/28,neural,entertainment
+2019/4/29,negative,business
+2019/4/29,positive,business
+2019/4/29,neural,business
+2019/4/29,neural,health
+2019/4/29,positive,science and technology
+2019/4/29,super negative,health
+2019/4/29,positive,business
+2019/4/30,neural,health
+2019/4/30,positive,science and technology
+2019/4/30,super negative,health
+2019/4/30,negative,health
+2019/4/30,positive,entertainment
+2019/4/30,negative,business
+2019/4/30,neural,business
+2019/4/30,super positive,science and technology
+2019/5/1,negative,entertainment
+2019/5/1,neural,health
+2019/5/1,neural,business
+2019/5/1,neural,health
+2019/5/2,neural,business
+2019/5/2,neural,business
+2019/5/2,neural,science and technology
+2019/5/2,neural,entertainment
+2019/5/2,positive,business
+2019/5/2,positive,business
+2019/5/3,neural,business
+2019/5/3,positive,entertainment
+2019/5/3,neural,entertainment
+2019/5/3,positive,business
+2019/5/3,neural,business
+2019/5/3,neural,health
+2019/5/4,neural,science and technology
+2019/5/4,positive,science and technology
+2019/5/4,negative,entertainment
+2019/5/4,positive,business
+2019/5/4,neural,entertainment
+2019/5/5,neural,business
+2019/5/5,positive,entertainment
+2019/5/5,neural,business
+2019/5/5,negative,entertainment
+2019/5/5,neural,entertainment
+2019/5/5,neural,business
+2019/5/5,negative,entertainment
+2019/5/6,neural,entertainment
+2019/5/6,negative,science and technology
+2019/5/7,neural,entertainment
+2019/5/7,positive,science and technology
+2019/5/8,neural,business
+2019/5/8,neural,business
+2019/5/8,neural,business
+2019/5/8,neural,health
+2019/5/8,neural,entertainment
+2019/5/8,super positive,business
+2019/5/8,negative,business
+2019/5/8,super negative,business
+2019/5/8,neural,science and technology
+2019/5/8,neural,entertainment
+2019/5/9,neural,business
+2019/5/9,super negative,business
+2019/5/9,neural,health
+2019/5/9,neural,business
+2019/5/9,neural,business
+2019/5/9,neural,business
+2019/5/9,neural,health
+2019/5/10,neural,business
+2019/5/10,neural,entertainment
+2019/5/10,neural,business
+2019/5/10,negative,business
+2019/5/10,neural,health
+2019/5/10,positive,science and technology
+2019/5/10,positive,health
+2019/5/10,neural,business
+2019/5/10,neural,business
+2019/5/10,super negative,business
+2019/5/10,super positive,business
+2019/5/10,neural,business
+2019/5/10,positive,business
+2019/5/11,positive,business
+2019/5/11,positive,science and technology
+2019/5/13,neural,business
+2019/5/13,neural,business
+2019/5/13,super positive,business
+2019/5/13,positive,business
+2019/5/13,positive,science and technology
+2019/5/13,negative,business
+2019/5/13,neural,entertainment
+2019/5/13,neural,business
+2019/5/13,super positive,entertainment
+2019/5/13,neural,entertainment
+2019/5/13,super negative,business
+2019/5/13,negative,business
+2019/5/13,neural,business
+2019/5/13,negative,business
+2019/5/14,neural,science and technology
+2019/5/14,neural,business
+2019/5/14,negative,business
+2019/5/14,neural,entertainment
+2019/5/14,positive,business
+2019/5/14,neural,business
+2019/5/14,neural,business
+2019/5/14,neural,science and technology
+2019/5/14,negative,health
+2019/5/15,neural,science and technology
+2019/5/15,negative,business
+2019/5/15,neural,science and technology
+2019/5/15,neural,science and technology
+2019/5/16,neural,business
+2019/5/16,positive,business
+2019/5/16,positive,business
+2019/5/16,neural,business
+2019/5/16,neural,entertainment
+2019/5/16,positive,business
+2019/5/16,negative,health
+2019/5/16,positive,business
+2019/5/16,negative,business
+2019/5/16,neural,business
+2019/5/16,positive,science and technology
+2019/5/16,neural,science and technology
+2019/5/16,neural,science and technology
+2019/5/17,neural,science and technology
+2019/5/17,neural,business
+2019/5/17,neural,business
+2019/5/17,super negative,entertainment
+2019/5/17,neural,science and technology
+2019/5/17,negative,entertainment
+2019/5/17,neural,business
+2019/5/17,positive,business
+2019/5/17,neural,health
+2019/5/17,positive,business
+2019/5/17,positive,business
+2019/5/18,positive,science and technology
+2019/5/18,neural,science and technology
+2019/5/18,super positive,entertainment
+2019/5/19,negative,business
+2019/5/19,super negative,business
+2019/5/20,positive,science and technology
+2019/5/20,positive,health
+2019/5/20,neural,health
+2019/5/20,neural,science and technology
+2019/5/20,negative,business
+2019/5/20,neural,business
+2019/5/20,neural,science and technology
+2019/5/20,positive,business
+2019/5/21,super negative,business
+2019/5/21,neural,science and technology
+2019/5/21,positive,entertainment
+2019/5/21,neural,science and technology
+2019/5/21,neural,business
+2019/5/21,super positive,business
+2019/5/22,neural,science and technology
+2019/5/22,positive,business
+2019/5/22,neural,business
+2019/5/22,neural,science and technology
+2019/5/22,neural,entertainment
+2019/5/22,negative,business
+2019/5/22,neural,science and technology
+2019/5/22,neural,science and technology
+2019/5/22,neural,business
+2019/5/22,negative,business
+2019/5/22,neural,science and technology
+2019/5/22,negative,business
+2019/5/22,negative,business
+2019/5/22,negative,business
+2019/5/22,neural,business
+2019/5/22,positive,business
+2019/5/22,positive,business
+2019/5/22,positive,science and technology
+2019/5/22,neural,science and technology
+2019/5/22,neural,business
+2019/5/23,neural,business
+2019/5/23,neural,entertainment
+2019/5/23,positive,entertainment
+2019/5/23,positive,business
+2019/5/23,neural,business
+2019/5/23,negative,business
+2019/5/23,negative,business
+2019/5/23,neural,health
+2019/5/23,negative,entertainment
+2019/5/23,negative,business
+2019/5/23,neural,science and technology
+2019/5/23,neural,entertainment
+2019/5/23,negative,business
+2019/5/23,neural,health
+2019/5/23,super positive,entertainment
+2019/5/24,negative,business
+2019/5/24,neural,business
+2019/5/24,neural,science and technology
+2019/5/24,neural,science and technology
+2019/5/24,neural,science and technology
+2019/5/24,neural,science and technology
+2019/5/24,negative,business
+2019/5/25,neural,business
+2019/5/25,positive,science and technology
+2019/5/25,positive,business
+2019/5/26,negative,business
+2019/5/26,negative,business
+2019/5/26,negative,science and technology
+2019/5/26,neural,entertainment
+2019/5/26,neural,business
+2019/5/27,neural,business
+2019/5/27,negative,business
+2019/5/27,positive,health
+2019/5/27,neural,business
+2019/5/27,neural,science and technology
+2019/5/27,neural,business
+2019/5/27,positive,business
+2019/5/27,neural,health
+2019/5/27,positive,science and technology
+2019/5/28,negative,business
+2019/5/28,super positive,business
+2019/5/28,super positive,entertainment
+2019/5/28,negative,science and technology
+2019/5/28,neural,science and technology
+2019/5/28,neural,entertainment
+2019/5/28,neural,business
+2019/5/28,neural,business
+2019/5/28,negative,business
+2019/5/28,neural,business
+2019/5/29,super negative,business
+2019/5/29,neural,business
+2019/5/29,neural,entertainment
+2019/5/29,negative,health
+2019/5/29,neural,science and technology
+2019/5/29,super negative,entertainment
+2019/5/30,neural,health
+2019/5/30,positive,business
+2019/5/30,neural,business
+2019/5/30,neural,entertainment
+2019/5/30,negative,health
+2019/5/31,positive,entertainment
+2019/5/31,negative,science and technology
+2019/5/31,negative,health
+2019/5/31,neural,business
+2019/5/31,neural,science and technology
+2019/6/1,negative,entertainment
+2019/6/2,negative,business
+2019/6/2,super positive,business
+2019/6/2,neural,entertainment
+2019/6/2,super positive,entertainment
+2019/6/2,negative,entertainment
+2019/6/2,negative,business
+2019/6/2,negative,health
+2019/6/3,super positive,entertainment
+2019/6/3,neural,science and technology
+2019/6/3,neural,business
+2019/6/3,neural,entertainment
+2019/6/3,neural,health
+2019/6/3,negative,business
+2019/6/3,neural,science and technology
+2019/6/3,neural,health
+2019/6/3,neural,business
+2019/6/3,negative,health
+2019/6/3,neural,business
+2019/6/3,neural,business
+2019/6/3,neural,business
+2019/6/3,neural,science and technology
+2019/6/3,neural,entertainment
+2019/6/4,neural,business
+2019/6/4,neural,business
+2019/6/4,super positive,science and technology
+2019/6/4,positive,business
+2019/6/4,positive,business
+2019/6/4,super negative,business
+2019/6/4,negative,business
+2019/6/4,positive,business
+2019/6/4,super negative,business
+2019/6/4,neural,business
+2019/6/4,neural,health
+2019/6/4,positive,business
+2019/6/5,positive,business
+2019/6/5,neural,entertainment
+2019/6/5,neural,business
+2019/6/5,negative,business
+2019/6/5,super negative,business
+2019/6/5,neural,entertainment
+2019/6/5,super positive,business
+2019/6/5,super negative,business
+2019/6/5,neural,science and technology
+2019/6/5,super positive,business
+2019/6/5,negative,health
+2019/6/5,neural,business
+2019/6/5,super positive,business
+2019/6/6,neural,business
+2019/6/6,neural,science and technology
+2019/6/6,neural,science and technology
+2019/6/6,negative,entertainment
+2019/6/6,super negative,entertainment
+2019/6/6,negative,business
+2019/6/6,neural,business
+2019/6/6,negative,science and technology
+2019/6/6,neural,business
+2019/6/6,negative,science and technology
+2019/6/6,neural,science and technology
+2019/6/6,neural,business
+2019/6/6,neural,business
+2019/6/6,neural,business
+2019/6/7,positive,health
+2019/6/7,neural,business
+2019/6/7,positive,science and technology
+2019/6/7,super negative,entertainment
+2019/6/7,neural,science and technology
+2019/6/7,super positive,entertainment
+2019/6/7,neural,entertainment
+2019/6/7,neural,business
+2019/6/7,positive,science and technology
+2019/6/7,negative,business
+2019/6/7,neural,business
+2019/6/8,negative,science and technology
+2019/6/8,positive,entertainment
+2019/6/8,neural,business
+2019/6/8,negative,business
+2019/6/9,neural,business
+2019/6/9,negative,business
+2019/6/9,neural,science and technology
+2019/6/9,neural,entertainment
+2019/6/9,neural,business
+2019/6/10,neural,business
+2019/6/10,neural,science and technology
+2019/6/10,super negative,science and technology
+2019/6/10,neural,business
+2019/6/10,neural,entertainment
+2019/6/10,positive,science and technology
+2019/6/10,neural,business
+2019/6/10,neural,business
+2019/6/10,neural,business
+2019/6/11,neural,business
+2019/6/11,positive,business
+2019/6/11,positive,entertainment
+2019/6/11,positive,science and technology
+2019/6/11,positive,business
+2019/6/11,super positive,science and technology
+2019/6/11,super negative,health
+2019/6/11,neural,business
+2019/6/11,positive,business
+2019/6/11,neural,science and technology
+2019/6/11,neural,entertainment
+2019/6/11,neural,health
+2019/6/11,neural,business
+2019/6/11,neural,business
+2019/6/12,positive,business
+2019/6/12,positive,science and technology
+2019/6/12,neural,science and technology
+2019/6/12,negative,business
+2019/6/12,negative,entertainment
+2019/6/12,positive,science and technology
+2019/6/12,super negative,business
+2019/6/12,neural,health
+2019/6/12,neural,business
+2019/6/12,neural,science and technology
+2019/6/13,negative,business
+2019/6/13,neural,entertainment
+2019/6/13,neural,science and technology
+2019/6/13,negative,health
+2019/6/13,negative,science and technology
+2019/6/13,positive,business
+2019/6/13,neural,business
+2019/6/13,super positive,business
+2019/6/13,neural,business
+2019/6/14,neural,business
+2019/6/14,neural,science and technology
+2019/6/14,super positive,science and technology
+2019/6/14,positive,science and technology
+2019/6/14,neural,business
+2019/6/14,neural,business
+2019/6/14,neural,science and technology
+2019/6/14,neural,business
+2019/6/14,neural,business
+2019/6/14,super negative,business
+2019/6/15,positive,health
+2019/6/15,neural,science and technology
+2019/6/15,neural,science and technology
+2019/6/15,super negative,business
+2019/6/15,super positive,health
+2019/6/15,negative,business
+2019/6/15,positive,business
+2019/6/15,positive,business
+2019/6/15,super positive,entertainment
+2019/6/15,neural,business
+2019/6/16,super negative,business
+2019/6/16,negative,entertainment
+2019/6/16,neural,business
+2019/6/17,neural,business
+2019/6/17,neural,business
+2019/6/17,neural,entertainment
+2019/6/17,negative,science and technology
+2019/6/17,neural,business
+2019/6/17,negative,entertainment
+2019/6/17,super positive,business
+2019/6/17,positive,science and technology
+2019/6/17,negative,business
+2019/6/17,positive,entertainment
+2019/6/17,positive,business
+2019/6/17,neural,business
+2019/6/17,positive,business
+2019/6/17,positive,entertainment
+2019/6/17,neural,business
+2019/6/17,positive,business
+2019/6/18,positive,entertainment
+2019/6/18,neural,entertainment
+2019/6/18,neural,science and technology
+2019/6/18,negative,entertainment
+2019/6/18,negative,business
+2019/6/18,neural,entertainment
+2019/6/18,negative,business
+2019/6/18,neural,health
+2019/6/18,positive,business
+2019/6/18,neural,health
+2019/6/18,positive,health
+2019/6/18,neural,business
+2019/6/19,super negative,science and technology
+2019/6/19,positive,business
+2019/6/19,neural,entertainment
+2019/6/19,neural,science and technology
+2019/6/19,negative,science and technology
+2019/6/19,positive,business
+2019/6/19,super positive,business
+2019/6/19,positive,business
+2019/6/20,negative,science and technology
+2019/6/20,positive,science and technology
+2019/6/20,neural,business
+2019/6/20,positive,science and technology
+2019/6/20,positive,business
+2019/6/20,super negative,entertainment
+2019/6/20,neural,entertainment
+2019/6/20,positive,entertainment
+2019/6/20,neural,science and technology
+2019/6/21,positive,science and technology
+2019/6/21,neural,health
+2019/6/21,negative,business
+2019/6/21,negative,business
+2019/6/21,neural,science and technology
+2019/6/21,negative,entertainment
+2019/6/21,positive,business
+2019/6/22,neural,business
+2019/6/22,neural,science and technology
+2019/6/22,positive,business
+2019/6/23,super positive,entertainment
+2019/6/24,neural,business
+2019/6/24,super positive,science and technology
+2019/6/24,neural,science and technology
+2019/6/24,neural,business
+2019/6/24,negative,business
+2019/6/24,neural,business
+2019/6/24,negative,science and technology
+2019/6/24,negative,health
+2019/6/24,positive,business
+2019/6/24,negative,health
+2019/6/24,positive,business
+2019/6/24,neural,science and technology
+2019/6/25,neural,science and technology
+2019/6/25,positive,business
+2019/6/25,positive,business
+2019/6/25,neural,science and technology
+2019/6/25,neural,business
+2019/6/25,positive,entertainment
+2019/6/25,neural,science and technology
+2019/6/25,neural,business
+2019/6/25,positive,business
+2019/6/25,neural,business
+2019/6/25,neural,science and technology
+2019/6/25,positive,business
+2019/6/25,super positive,business
+2019/6/25,positive,business
+2019/6/25,neural,business
+2019/6/25,neural,health
+2019/6/26,super positive,entertainment
+2019/6/26,neural,health
+2019/6/26,positive,entertainment
+2019/6/26,neural,business
+2019/6/26,super negative,health
+2019/6/26,positive,entertainment
+2019/6/27,positive,health
+2019/6/27,neural,entertainment
+2019/6/27,positive,business
+2019/6/27,neural,business
+2019/6/27,neural,science and technology
+2019/6/28,positive,entertainment
+2019/6/28,neural,entertainment
+2019/6/28,negative,science and technology
+2019/6/28,super positive,entertainment
+2019/6/28,super negative,business
+2019/6/28,neural,science and technology
+2019/6/28,neural,science and technology
+2019/6/28,neural,business
+2019/6/28,negative,science and technology
+2019/6/28,super positive,business
+2019/6/28,neural,entertainment
+2019/6/28,negative,business
+2019/6/28,super positive,entertainment
+2019/6/28,neural,business
+2019/6/28,neural,science and technology
+2019/6/28,neural,science and technology
+2019/6/28,positive,business
+2019/6/29,negative,business
+2019/6/29,neural,science and technology
+2019/6/29,negative,business
+2019/6/30,neural,health
+2019/7/1,negative,business
+2019/7/1,super positive,entertainment
+2019/7/1,super positive,entertainment
+2019/7/2,positive,entertainment
+2019/7/2,positive,entertainment
+2019/7/2,neural,entertainment
+2019/7/2,neural,entertainment
+2019/7/2,neural,entertainment
+2019/7/2,neural,business
+2019/7/2,negative,business
+2019/7/2,neural,business
+2019/7/2,positive,entertainment
+2019/7/2,neural,entertainment
+2019/7/2,neural,business
+2019/7/3,neural,business
+2019/7/3,neural,entertainment
+2019/7/3,neural,business
+2019/7/3,neural,business
+2019/7/3,negative,entertainment
+2019/7/3,neural,science and technology
+2019/7/3,neural,entertainment
+2019/7/3,neural,entertainment
+2019/7/3,neural,science and technology
+2019/7/3,positive,entertainment
+2019/7/4,neural,science and technology
+2019/7/4,positive,business
+2019/7/4,super negative,entertainment
+2019/7/4,neural,business
+2019/7/4,positive,business
+2019/7/4,positive,entertainment
+2019/7/4,negative,science and technology
+2019/7/4,neural,health
+2019/7/4,neural,business
+2019/7/4,neural,business
+2019/7/4,positive,health
+2019/7/4,negative,business
+2019/7/5,positive,business
+2019/7/5,negative,entertainment
+2019/7/5,neural,entertainment
+2019/7/5,super negative,business
+2019/7/5,neural,business
+2019/7/5,neural,business
+2019/7/5,positive,business
+2019/7/5,positive,entertainment
+2019/7/5,neural,business
+2019/7/5,neural,business
+2019/7/6,super positive,entertainment
+2019/7/6,neural,entertainment
+2019/7/6,neural,science and technology
+2019/7/7,neural,entertainment
+2019/7/7,positive,business
+2019/7/7,positive,business
+2019/7/7,super positive,science and technology
+2019/7/7,positive,health
+2019/7/7,negative,science and technology
+2019/7/7,super positive,entertainment
+2019/7/7,neural,business
+2019/7/7,neural,entertainment
+2019/7/7,neural,entertainment
+2019/7/7,negative,business
+2019/7/7,positive,entertainment
+2019/7/7,positive,entertainment
+2019/7/7,neural,entertainment
+2019/7/8,positive,business
+2019/7/8,neural,science and technology
+2019/7/8,negative,science and technology
+2019/7/8,positive,entertainment
+2019/7/8,neural,business
+2019/7/8,positive,entertainment
+2019/7/8,neural,entertainment
+2019/7/8,negative,health
+2019/7/8,neural,science and technology
+2019/7/8,neural,business
+2019/7/9,positive,business
+2019/7/9,neural,entertainment
+2019/7/9,negative,business
+2019/7/9,positive,entertainment
+2019/7/9,neural,science and technology
+2019/7/9,super positive,business
+2019/7/9,super positive,entertainment
+2019/7/10,positive,business
+2019/7/10,neural,business
+2019/7/10,neural,science and technology
+2019/7/10,positive,entertainment
+2019/7/10,positive,business
+2019/7/10,neural,business
+2019/7/10,negative,business
+2019/7/10,positive,business
+2019/7/10,negative,business
+2019/7/10,neural,business
+2019/7/10,neural,business
+2019/7/10,positive,business
+2019/7/10,neural,business
+2019/7/11,neural,entertainment
+2019/7/11,neural,entertainment
+2019/7/11,neural,science and technology
+2019/7/11,neural,entertainment
+2019/7/11,positive,business
+2019/7/11,neural,business
+2019/7/11,neural,health
+2019/7/11,super positive,business
+2019/7/11,neural,business
+2019/7/11,neural,business
+2019/7/12,neural,business
+2019/7/12,neural,entertainment
+2019/7/12,positive,business
+2019/7/12,positive,entertainment
+2019/7/12,neural,science and technology
+2019/7/12,positive,business
+2019/7/12,positive,science and technology
+2019/7/12,neural,business
+2019/7/12,negative,business
+2019/7/12,neural,entertainment
+2019/7/12,positive,business
+2019/7/13,neural,business
+2019/7/14,neural,business
+2019/7/14,negative,business
+2019/7/14,neural,science and technology
+2019/7/15,negative,science and technology
+2019/7/15,neural,science and technology
+2019/7/15,neural,science and technology
+2019/7/16,positive,business
+2019/7/16,neural,business
+2019/7/16,negative,entertainment
+2019/7/16,neural,health
+2019/7/16,negative,business
+2019/7/16,neural,health
+2019/7/17,neural,entertainment
+2019/7/17,neural,science and technology
+2019/7/17,negative,business
+2019/7/17,neural,science and technology
+2019/7/17,neural,science and technology
+2019/7/17,neural,science and technology
+2019/7/17,positive,entertainment
+2019/7/17,negative,science and technology
+2019/7/17,positive,health
+2019/7/18,positive,business
+2019/7/18,positive,business
+2019/7/18,positive,business
+2019/7/18,neural,business
+2019/7/18,positive,business
+2019/7/18,neural,entertainment
+2019/7/18,positive,entertainment
+2019/7/18,positive,business
+2019/7/18,neural,health
+2019/7/19,negative,science and technology
+2019/7/19,positive,health
+2019/7/19,neural,entertainment
+2019/7/19,neural,entertainment
+2019/7/19,neural,entertainment
+2019/7/19,neural,business
+2019/7/19,super negative,entertainment
+2019/7/19,neural,entertainment
+2019/7/20,neural,entertainment
+2019/7/20,positive,business
+2019/7/21,neural,business
+2019/7/21,neural,science and technology
+2019/7/21,negative,business
+2019/7/21,neural,entertainment
+2019/7/21,neural,science and technology
+2019/7/22,negative,business
+2019/7/22,neural,entertainment
+2019/7/22,neural,business
+2019/7/22,positive,entertainment
+2019/7/22,super positive,science and technology
+2019/7/22,positive,science and technology
+2019/7/22,super negative,business
+2019/7/22,super negative,business
+2019/7/23,positive,science and technology
+2019/7/23,neural,business
+2019/7/23,super negative,entertainment
+2019/7/23,positive,science and technology
+2019/7/23,negative,health
+2019/7/23,neural,business
+2019/7/23,negative,business
+2019/7/23,neural,business
+2019/7/23,negative,entertainment
+2019/7/23,positive,business
+2019/7/23,neural,science and technology
+2019/7/24,neural,business
+2019/7/24,negative,business
+2019/7/24,negative,business
+2019/7/24,neural,business
+2019/7/24,neural,science and technology
+2019/7/24,neural,business
+2019/7/24,negative,science and technology
+2019/7/25,neural,business
+2019/7/25,positive,business
+2019/7/25,positive,business
+2019/7/25,super positive,health
+2019/7/25,neural,health
+2019/7/25,super negative,health
+2019/7/25,negative,science and technology
+2019/7/25,neural,science and technology
+2019/7/25,negative,entertainment
+2019/7/25,neural,business
+2019/7/25,neural,science and technology
+2019/7/25,neural,business
+2019/7/25,positive,science and technology
+2019/7/25,super positive,entertainment
+2019/7/25,positive,business
+2019/7/25,negative,science and technology
+2019/7/25,positive,health
+2019/7/26,super negative,business
+2019/7/26,super positive,business
+2019/7/26,neural,health
+2019/7/26,positive,business
+2019/7/26,neural,health
+2019/7/26,neural,entertainment
+2019/7/26,super positive,entertainment
+2019/7/27,neural,business
+2019/7/27,neural,health
+2019/7/27,negative,business
+2019/7/27,positive,entertainment
+2019/7/27,neural,science and technology
+2019/7/28,negative,business
+2019/7/28,neural,business
+2019/7/28,neural,entertainment
+2019/7/28,positive,business
+2019/7/28,super negative,entertainment
+2019/7/29,neural,business
+2019/7/29,super positive,entertainment
+2019/7/29,neural,entertainment
+2019/7/29,negative,business
+2019/7/29,positive,entertainment
+2019/7/29,negative,health
+2019/7/29,positive,science and technology
+2019/7/29,super negative,science and technology
+2019/7/29,neural,science and technology
+2019/7/29,neural,business
+2019/7/30,positive,business
+2019/7/30,positive,business
+2019/7/30,negative,science and technology
+2019/7/30,neural,science and technology
+2019/7/30,positive,business
+2019/7/30,neural,science and technology
+2019/7/30,neural,business
+2019/7/30,positive,business
+2019/7/30,neural,business
+2019/7/30,neural,business
+2019/7/30,neural,business
+2019/7/31,neural,business
+2019/7/31,super negative,health
+2019/7/31,positive,business
+2019/7/31,negative,business
+2019/7/31,neural,business
+2019/7/31,positive,business
+2019/7/31,neural,entertainment
+2019/7/31,neural,entertainment
+2019/7/31,positive,health
+2019/8/1,positive,science and technology
+2019/8/1,neural,entertainment
+2019/8/1,neural,business
+2019/8/1,negative,business
+2019/8/1,positive,business
+2019/8/1,positive,entertainment
+2019/8/1,super negative,business
+2019/8/2,negative,business
+2019/8/2,positive,entertainment
+2019/8/2,neural,business
+2019/8/2,neural,science and technology
+2019/8/2,neural,business
+2019/8/2,negative,business
+2019/8/2,neural,business
+2019/8/2,positive,business
+2019/8/2,negative,entertainment
+2019/8/2,positive,business
+2019/8/2,neural,science and technology
+2019/8/3,positive,business
+2019/8/3,neural,entertainment
+2019/8/3,super negative,science and technology
+2019/8/3,positive,business
+2019/8/3,super negative,health
+2019/8/4,super negative,business
+2019/8/4,positive,business
+2019/8/4,super negative,health
+2019/8/4,negative,entertainment
+2019/8/4,positive,science and technology
+2019/8/5,neural,business
+2019/8/5,neural,science and technology
+2019/8/5,positive,entertainment
+2019/8/5,negative,business
+2019/8/5,neural,science and technology
+2019/8/5,neural,science and technology
+2019/8/5,super negative,science and technology
+2019/8/5,super negative,entertainment
+2019/8/5,neural,health
+2019/8/5,negative,science and technology
+2019/8/5,neural,health
+2019/8/5,neural,business
+2019/8/5,neural,business
+2019/8/6,neural,entertainment
+2019/8/6,super positive,science and technology
+2019/8/6,neural,business
+2019/8/6,neural,business
+2019/8/6,neural,science and technology
+2019/8/6,neural,business
+2019/8/6,neural,entertainment
+2019/8/6,negative,business
+2019/8/6,neural,business
+2019/8/6,negative,business
+2019/8/7,super positive,business
+2019/8/7,negative,business
+2019/8/7,super positive,science and technology
+2019/8/7,neural,business
+2019/8/7,neural,business
+2019/8/7,neural,business
+2019/8/7,negative,business
+2019/8/7,positive,business
+2019/8/7,negative,business
+2019/8/8,neural,science and technology
+2019/8/8,negative,business
+2019/8/8,neural,business
+2019/8/8,neural,business
+2019/8/9,negative,business
+2019/8/9,neural,science and technology
+2019/8/9,neural,entertainment
+2019/8/10,negative,entertainment
+2019/8/10,neural,business
+2019/8/10,positive,entertainment
+2019/8/10,neural,business
+2019/8/11,super negative,entertainment
+2019/8/11,negative,health
+2019/8/11,super positive,entertainment
+2019/8/11,neural,entertainment
+2019/8/11,negative,health
+2019/8/12,neural,science and technology
+2019/8/12,neural,business
+2019/8/12,neural,health
+2019/8/12,positive,science and technology
+2019/8/12,super negative,entertainment
+2019/8/12,super negative,business
+2019/8/12,positive,business
+2019/8/12,positive,science and technology
+2019/8/12,neural,business
+2019/8/12,neural,entertainment
+2019/8/12,neural,entertainment
+2019/8/12,negative,business
+2019/8/13,negative,business
+2019/8/13,neural,entertainment
+2019/8/13,negative,business
+2019/8/13,neural,science and technology
+2019/8/13,negative,entertainment
+2019/8/13,negative,entertainment
+2019/8/13,negative,business
+2019/8/13,negative,health
+2019/8/13,negative,business
+2019/8/13,negative,business
+2019/8/14,neural,business
+2019/8/14,positive,science and technology
+2019/8/14,negative,business
+2019/8/14,neural,entertainment
+2019/8/14,neural,business
+2019/8/14,super negative,science and technology
+2019/8/14,neural,business
+2019/8/14,neural,business
+2019/8/14,neural,science and technology
+2019/8/14,super positive,science and technology
+2019/8/14,negative,business
+2019/8/15,super negative,entertainment
+2019/8/15,neural,business
+2019/8/15,neural,entertainment
+2019/8/15,negative,business
+2019/8/15,positive,business
+2019/8/15,positive,entertainment
+2019/8/15,neural,business
+2019/8/15,positive,health
+2019/8/16,neural,health
+2019/8/16,neural,science and technology
+2019/8/16,neural,science and technology
+2019/8/16,neural,science and technology
+2019/8/16,negative,health
+2019/8/16,neural,business
+2019/8/16,neural,business
+2019/8/16,neural,business
+2019/8/16,negative,business
+2019/8/16,negative,science and technology
+2019/8/17,neural,business
+2019/8/17,neural,science and technology
+2019/8/17,neural,business
+2019/8/17,neural,entertainment
+2019/8/17,neural,business
+2019/8/17,neural,business
+2019/8/17,super negative,business
+2019/8/18,negative,entertainment
+2019/8/18,positive,entertainment
+2019/8/18,super negative,entertainment
+2019/8/18,negative,business
+2019/8/19,neural,business
+2019/8/19,neural,health
+2019/8/19,negative,business
+2019/8/19,neural,business
+2019/8/19,neural,business
+2019/8/19,neural,science and technology
+2019/8/19,neural,business
+2019/8/19,neural,science and technology
+2019/8/19,super negative,entertainment
+2019/8/19,neural,health
+2019/8/20,negative,health
+2019/8/20,neural,entertainment
+2019/8/20,positive,entertainment
+2019/8/20,negative,science and technology
+2019/8/20,neural,business
+2019/8/21,neural,science and technology
+2019/8/21,positive,science and technology
+2019/8/21,super positive,entertainment
+2019/8/21,neural,entertainment
+2019/8/21,negative,science and technology
+2019/8/22,neural,business
+2019/8/22,neural,business
+2019/8/22,neural,science and technology
+2019/8/22,neural,entertainment
+2019/8/23,positive,entertainment
+2019/8/23,positive,science and technology
+2019/8/23,negative,science and technology
+2019/8/23,neural,business
+2019/8/23,positive,business
+2019/8/23,neural,business
+2019/8/23,neural,science and technology
+2019/8/23,neural,business
+2019/8/24,super positive,entertainment
+2019/8/24,super positive,entertainment
+2019/8/24,super positive,entertainment
+2019/8/24,negative,science and technology
+2019/8/24,super negative,entertainment
+2019/8/24,neural,science and technology
+2019/8/25,neural,business
+2019/8/25,neural,business
+2019/8/25,positive,health
+2019/8/25,neural,business
+2019/8/25,positive,entertainment
+2019/8/25,neural,science and technology
+2019/8/25,positive,entertainment
+2019/8/25,negative,science and technology
+2019/8/25,positive,entertainment
+2019/8/25,neural,business
+2019/8/26,super negative,health
+2019/8/26,positive,business
+2019/8/26,neural,business
+2019/8/26,neural,business
+2019/8/26,negative,science and technology
+2019/8/26,neural,science and technology
+2019/8/26,negative,business
+2019/8/26,neural,business
+2019/8/26,positive,business
+2019/8/26,positive,business
+2019/8/26,positive,science and technology
+2019/8/27,positive,science and technology
+2019/8/27,neural,science and technology
+2019/8/27,neural,science and technology
+2019/8/27,negative,science and technology
+2019/8/27,negative,business
+2019/8/27,neural,entertainment
+2019/8/27,neural,science and technology
+2019/8/27,negative,entertainment
+2019/8/27,neural,health
+2019/8/27,neural,science and technology
+2019/8/28,negative,health
+2019/8/28,super positive,health
+2019/8/28,positive,business
+2019/8/28,neural,science and technology
+2019/8/28,neural,business
+2019/8/28,neural,science and technology
+2019/8/28,positive,entertainment
+2019/8/28,super negative,science and technology
+2019/8/28,positive,business
+2019/8/28,neural,entertainment
+2019/8/29,neural,science and technology
+2019/8/29,negative,entertainment
+2019/8/30,positive,entertainment
+2019/8/30,neural,business
+2019/8/30,neural,entertainment
+2019/8/30,positive,health
+2019/8/30,neural,entertainment
+2019/8/30,negative,entertainment
+2019/8/30,positive,entertainment
+2019/8/30,neural,entertainment
+2019/8/30,super negative,science and technology
+2019/8/31,positive,business
+2019/8/31,negative,entertainment
+2019/8/31,neural,entertainment
+2019/8/31,positive,entertainment
+2019/8/31,positive,science and technology
+2019/8/31,neural,entertainment
+2019/9/1,negative,business
+2019/9/1,negative,health
+2019/9/1,negative,business
+2019/9/2,neural,business
+2019/9/2,positive,business
+2019/9/2,neural,health
+2019/9/3,neural,entertainment
+2019/9/3,neural,science and technology
+2019/9/3,negative,entertainment
+2019/9/3,negative,science and technology
+2019/9/3,neural,entertainment
+2019/9/3,negative,health
+2019/9/3,neural,entertainment
+2019/9/3,positive,business
+2019/9/3,neural,business
+2019/9/3,positive,health
+2019/9/3,neural,entertainment
+2019/9/4,neural,business
+2019/9/4,neural,business
+2019/9/4,super positive,entertainment
+2019/9/4,neural,science and technology
+2019/9/4,positive,science and technology
+2019/9/4,neural,health
+2019/9/5,negative,business
+2019/9/5,neural,business
+2019/9/5,neural,science and technology
+2019/9/5,neural,business
+2019/9/5,positive,entertainment
+2019/9/5,neural,science and technology
+2019/9/5,negative,science and technology
+2019/9/5,positive,business
+2019/9/5,neural,entertainment
+2019/9/5,neural,science and technology
+2019/9/6,super positive,business
+2019/9/6,positive,science and technology
+2019/9/6,positive,business
+2019/9/7,negative,entertainment
+2019/9/8,negative,entertainment
+2019/9/8,neural,business
+2019/9/8,neural,science and technology
+2019/9/8,neural,entertainment
+2019/9/8,positive,entertainment
+2019/9/8,neural,entertainment
+2019/9/8,positive,science and technology
+2019/9/8,neural,business
+2019/9/8,super positive,entertainment
+2019/9/8,neural,business
+2019/9/8,negative,business
+2019/9/8,neural,entertainment
+2019/9/9,neural,business
+2019/9/9,neural,business
+2019/9/9,super positive,entertainment
+2019/9/9,neural,business
+2019/9/9,super positive,science and technology
+2019/9/9,neural,science and technology
+2019/9/9,neural,science and technology
+2019/9/9,neural,science and technology
+2019/9/9,super positive,business
+2019/9/9,neural,business
+2019/9/9,negative,business
+2019/9/9,negative,health
+2019/9/9,neural,business
+2019/9/9,neural,business
+2019/9/9,positive,science and technology
+2019/9/9,negative,entertainment
+2019/9/10,neural,entertainment
+2019/9/10,neural,business
+2019/9/10,neural,business
+2019/9/10,neural,science and technology
+2019/9/10,super positive,science and technology
+2019/9/10,neural,business
+2019/9/10,positive,health
+2019/9/11,neural,entertainment
+2019/9/11,super positive,business
+2019/9/11,neural,business
+2019/9/11,neural,health
+2019/9/12,neural,business
+2019/9/12,neural,business
+2019/9/12,neural,science and technology
+2019/9/12,positive,entertainment
+2019/9/12,negative,science and technology
+2019/9/12,positive,science and technology
+2019/9/12,positive,business
+2019/9/12,negative,business
+2019/9/13,neural,entertainment
+2019/9/13,neural,business
+2019/9/14,super negative,science and technology
+2019/9/14,neural,business
+2019/9/14,neural,business
+2019/9/15,neural,science and technology
+2019/9/15,negative,health
+2019/9/15,positive,business
+2019/9/15,neural,health
+2019/9/15,neural,business
+2019/9/15,negative,entertainment
+2019/9/16,neural,health
+2019/9/16,positive,health
+2019/9/16,negative,health
+2019/9/16,neural,entertainment
+2019/9/16,positive,science and technology
+2019/9/16,super negative,science and technology
+2019/9/16,neural,science and technology
+2019/9/17,positive,health
+2019/9/17,neural,health
+2019/9/17,neural,science and technology
+2019/9/17,positive,business
+2019/9/17,neural,science and technology
+2019/9/17,super negative,business
+2019/9/17,positive,business
+2019/9/17,negative,business
+2019/9/17,positive,business
+2019/9/17,super negative,health
+2019/9/17,neural,business
+2019/9/17,neural,entertainment
+2019/9/17,neural,health
+2019/9/17,neural,health
+2019/9/17,negative,business
+2019/9/18,positive,entertainment
+2019/9/18,neural,health
+2019/9/18,negative,business
+2019/9/18,negative,science and technology
+2019/9/18,neural,business
+2019/9/18,neural,business
+2019/9/18,neural,science and technology
+2019/9/18,neural,business
+2019/9/18,negative,business
+2019/9/19,neural,science and technology
+2019/9/19,negative,business
+2019/9/19,positive,business
+2019/9/19,neural,business
+2019/9/19,neural,business
+2019/9/19,negative,health
+2019/9/19,neural,business
+2019/9/19,negative,business
+2019/9/19,negative,health
+2019/9/19,neural,business
+2019/9/19,super negative,business
+2019/9/20,neural,science and technology
+2019/9/20,neural,business
+2019/9/20,negative,business
+2019/9/20,positive,business
+2019/9/20,neural,business
+2019/9/20,neural,business
+2019/9/20,positive,science and technology
+2019/9/20,neural,science and technology
+2019/9/20,negative,business
+2019/9/20,neural,business
+2019/9/21,negative,entertainment
+2019/9/21,neural,health
+2019/9/21,neural,science and technology
+2019/9/21,neural,health
+2019/9/21,neural,health
+2019/9/22,positive,science and technology
+2019/9/22,super positive,business
+2019/9/22,neural,science and technology
+2019/9/23,neural,business
+2019/9/23,negative,science and technology
+2019/9/23,positive,business
+2019/9/23,negative,science and technology
+2019/9/23,neural,science and technology
+2019/9/23,positive,business
+2019/9/23,neural,health
+2019/9/23,positive,business
+2019/9/23,negative,entertainment
+2019/9/23,neural,science and technology
+2019/9/24,positive,entertainment
+2019/9/24,neural,business
+2019/9/24,neural,business
+2019/9/24,neural,health
+2019/9/24,super positive,business
+2019/9/24,neural,science and technology
+2019/9/24,positive,science and technology
+2019/9/24,positive,business
+2019/9/25,super positive,entertainment
+2019/9/25,super negative,business
+2019/9/25,negative,business
+2019/9/25,super positive,business
+2019/9/25,negative,health
+2019/9/25,negative,business
+2019/9/25,positive,health
+2019/9/25,neural,business
+2019/9/25,positive,business
+2019/9/25,neural,business
+2019/9/25,positive,business
+2019/9/26,positive,science and technology
+2019/9/26,neural,business
+2019/9/26,neural,entertainment
+2019/9/26,neural,business
+2019/9/26,positive,science and technology
+2019/9/26,super positive,business
+2019/9/26,super negative,business
+2019/9/26,neural,business
+2019/9/27,neural,science and technology
+2019/9/27,positive,entertainment
+2019/9/27,neural,science and technology
+2019/9/27,neural,business
+2019/9/27,negative,business
+2019/9/27,super negative,business
+2019/9/27,super positive,health
+2019/9/27,neural,business
+2019/9/27,negative,business
+2019/9/28,positive,entertainment
+2019/9/28,super negative,business
+2019/9/28,neural,health
+2019/9/28,negative,health
+2019/9/28,neural,science and technology
+2019/9/28,positive,entertainment
+2019/9/28,super negative,entertainment
+2019/9/28,neural,science and technology
+2019/9/28,neural,entertainment
+2019/9/28,neural,business
+2019/9/28,positive,entertainment
+2019/9/28,neural,entertainment
+2019/9/29,neural,business
+2019/9/29,negative,entertainment
+2019/9/29,negative,science and technology
+2019/9/29,neural,science and technology
+2019/9/29,negative,entertainment
+2019/9/29,neural,business
+2019/9/29,neural,business
+2019/9/30,neural,business
+2019/9/30,neural,science and technology
+2019/9/30,negative,health
+2019/9/30,neural,entertainment
+2019/9/30,positive,business
+2019/9/30,super negative,business
+2019/10/1,neural,entertainment
+2019/10/1,negative,business
+2019/10/1,neural,health
+2019/10/1,neural,business
+2019/10/2,negative,entertainment
+2019/10/2,super negative,entertainment
+2019/10/2,neural,science and technology
+2019/10/2,negative,business
+2019/10/2,neural,entertainment
+2019/10/2,neural,science and technology
+2019/10/2,neural,entertainment
+2019/10/2,super negative,entertainment
+2019/10/3,positive,entertainment
+2019/10/3,negative,business
+2019/10/3,positive,business
+2019/10/3,super negative,business
+2019/10/3,neural,business
+2019/10/3,positive,business
+2019/10/3,super positive,entertainment
+2019/10/3,neural,business
+2019/10/3,neural,business
+2019/10/4,neural,business
+2019/10/4,neural,business
+2019/10/4,negative,entertainment
+2019/10/5,positive,business
+2019/10/5,neural,health
+2019/10/5,positive,business
+2019/10/5,super positive,health
+2019/10/5,super negative,business
+2019/10/5,neural,entertainment
+2019/10/5,neural,business
+2019/10/5,super negative,business
+2019/10/5,neural,science and technology
+2019/10/5,super negative,business
+2019/10/5,neural,health
+2019/10/6,neural,health
+2019/10/6,neural,health
+2019/10/6,super negative,entertainment
+2019/10/6,positive,business
+2019/10/6,positive,science and technology
+2019/10/6,positive,business
+2019/10/7,super negative,entertainment
+2019/10/7,neural,business
+2019/10/7,neural,business
+2019/10/8,negative,business
+2019/10/8,negative,business
+2019/10/8,neural,business
+2019/10/8,negative,entertainment
+2019/10/8,neural,science and technology
+2019/10/8,neural,health
+2019/10/8,negative,business
+2019/10/8,super negative,health
+2019/10/8,neural,business
+2019/10/8,positive,science and technology
+2019/10/8,negative,business
+2019/10/8,neural,business
+2019/10/8,super negative,business
+2019/10/8,neural,business
+2019/10/8,neural,science and technology
+2019/10/8,super negative,entertainment
+2019/10/9,positive,entertainment
+2019/10/9,neural,business
+2019/10/9,super negative,business
+2019/10/9,positive,science and technology
+2019/10/9,neural,business
+2019/10/9,positive,business
+2019/10/9,super positive,business
+2019/10/9,neural,business
+2019/10/9,neural,business
+2019/10/9,neural,health
+2019/10/9,neural,entertainment
+2019/10/9,neural,business
+2019/10/9,super negative,business
+2019/10/10,positive,science and technology
+2019/10/10,neural,science and technology
+2019/10/10,positive,business
+2019/10/10,neural,entertainment
+2019/10/10,neural,business
+2019/10/10,super positive,entertainment
+2019/10/11,super negative,entertainment
+2019/10/11,positive,entertainment
+2019/10/11,neural,business
+2019/10/11,neural,business
+2019/10/11,neural,business
+2019/10/11,neural,business
+2019/10/11,neural,science and technology
+2019/10/11,neural,health
+2019/10/11,negative,business
+2019/10/11,neural,business
+2019/10/11,negative,health
+2019/10/12,positive,business
+2019/10/12,negative,science and technology
+2019/10/12,neural,science and technology
+2019/10/13,neural,business
+2019/10/13,positive,business
+2019/10/13,neural,business
+2019/10/13,neural,entertainment
+2019/10/13,positive,science and technology
+2019/10/13,super negative,health
+2019/10/13,positive,entertainment
+2019/10/13,neural,science and technology
+2019/10/14,neural,business
+2019/10/14,positive,entertainment
+2019/10/14,super negative,business
+2019/10/14,positive,entertainment
+2019/10/14,neural,health
+2019/10/14,positive,science and technology
+2019/10/14,neural,health
+2019/10/14,neural,business
+2019/10/14,neural,business
+2019/10/14,positive,business
+2019/10/15,negative,entertainment
+2019/10/15,neural,science and technology
+2019/10/15,neural,entertainment
+2019/10/15,negative,business
+2019/10/15,positive,business
+2019/10/15,negative,business
+2019/10/15,neural,business
+2019/10/15,neural,business
+2019/10/15,neural,entertainment
+2019/10/15,neural,business
+2019/10/15,super positive,business
+2019/10/15,neural,science and technology
+2019/10/16,neural,science and technology
+2019/10/16,negative,science and technology
+2019/10/16,neural,business
+2019/10/16,negative,business
+2019/10/16,negative,science and technology
+2019/10/16,neural,health
+2019/10/16,negative,business
+2019/10/16,positive,business
+2019/10/16,neural,science and technology
+2019/10/16,positive,business
+2019/10/16,positive,science and technology
+2019/10/16,neural,science and technology
+2019/10/16,neural,science and technology
+2019/10/16,negative,business
+2019/10/16,neural,business
+2019/10/17,negative,business
+2019/10/17,negative,science and technology
+2019/10/17,neural,entertainment
+2019/10/17,positive,entertainment
+2019/10/17,neural,entertainment
+2019/10/17,neural,health
+2019/10/18,neural,entertainment
+2019/10/18,neural,business
+2019/10/18,neural,business
+2019/10/19,negative,science and technology
+2019/10/19,neural,health
+2019/10/19,negative,entertainment
+2019/10/19,neural,entertainment
+2019/10/19,neural,entertainment
+2019/10/19,neural,business
+2019/10/20,neural,entertainment
+2019/10/20,neural,business
+2019/10/21,positive,entertainment
+2019/10/21,positive,business
+2019/10/21,neural,business
+2019/10/21,neural,business
+2019/10/21,neural,science and technology
+2019/10/21,negative,health
+2019/10/21,super negative,business
+2019/10/21,negative,business
+2019/10/21,neural,entertainment
+2019/10/21,positive,health
+2019/10/21,neural,business
+2019/10/21,positive,business
+2019/10/21,negative,business
+2019/10/21,super negative,business
+2019/10/21,neural,entertainment
+2019/10/21,neural,entertainment
+2019/10/22,positive,business
+2019/10/22,negative,business
+2019/10/22,neural,science and technology
+2019/10/22,negative,business
+2019/10/22,negative,entertainment
+2019/10/22,neural,science and technology
+2019/10/22,positive,business
+2019/10/22,neural,entertainment
+2019/10/22,negative,entertainment
+2019/10/22,neural,business
+2019/10/22,super negative,business
+2019/10/22,neural,entertainment
+2019/10/22,negative,business
+2019/10/22,neural,business
+2019/10/22,negative,business
+2019/10/22,positive,business
+2019/10/23,positive,health
+2019/10/23,negative,entertainment
+2019/10/23,positive,business
+2019/10/23,negative,science and technology
+2019/10/23,negative,business
+2019/10/23,neural,science and technology
+2019/10/23,negative,science and technology
+2019/10/23,neural,business
+2019/10/23,positive,entertainment
+2019/10/23,positive,entertainment
+2019/10/23,neural,health
+2019/10/23,negative,business
+2019/10/24,negative,business
+2019/10/24,neural,science and technology
+2019/10/24,neural,business
+2019/10/25,super negative,entertainment
+2019/10/25,positive,business
+2019/10/25,negative,business
+2019/10/25,negative,business
+2019/10/25,negative,business
+2019/10/25,super negative,entertainment
+2019/10/25,neural,business
+2019/10/25,negative,business
+2019/10/26,negative,business
+2019/10/26,super positive,business
+2019/10/27,negative,health
+2019/10/27,super negative,business
+2019/10/27,super negative,business
+2019/10/27,super negative,health
+2019/10/27,neural,business
+2019/10/27,negative,health
+2019/10/27,neural,business
+2019/10/27,super negative,business
+2019/10/27,super negative,business
+2019/10/27,super negative,business
+2019/10/27,positive,science and technology
+2019/10/27,super negative,business
+2019/10/28,neural,entertainment
+2019/10/28,negative,science and technology
+2019/10/28,super negative,entertainment
+2019/10/28,neural,entertainment
+2019/10/28,positive,science and technology
+2019/10/28,negative,entertainment
+2019/10/28,positive,entertainment
+2019/10/28,neural,business
+2019/10/28,neural,entertainment
+2019/10/28,neural,business
+2019/10/28,neural,entertainment
+2019/10/28,negative,entertainment
+2019/10/28,neural,entertainment
+2019/10/28,neural,entertainment
+2019/10/28,negative,entertainment
+2019/10/29,neural,science and technology
+2019/10/29,neural,business
+2019/10/29,super positive,entertainment
+2019/10/29,negative,health
+2019/10/29,negative,business
+2019/10/29,neural,science and technology
+2019/10/30,negative,entertainment
+2019/10/30,positive,science and technology
+2019/10/30,neural,business
+2019/10/30,neural,health
+2019/10/30,positive,business
+2019/10/30,neural,science and technology
+2019/10/30,neural,entertainment
+2019/10/30,neural,science and technology
+2019/10/30,super negative,entertainment
+2019/10/30,neural,science and technology
+2019/10/30,negative,business
+2019/10/30,neural,entertainment
+2019/10/30,super negative,entertainment
+2019/10/30,positive,entertainment
+2019/10/30,neural,business
+2019/10/30,negative,business
+2019/10/30,neural,business
+2019/10/30,neural,entertainment
+2019/10/30,positive,entertainment
+2019/10/30,super positive,business
+2019/10/31,negative,entertainment
+2019/10/31,neural,entertainment
+2019/10/31,neural,science and technology
+2019/10/31,positive,entertainment
+2019/10/31,neural,business
+2019/10/31,neural,entertainment
+2019/10/31,neural,business
+2019/10/31,neural,entertainment
+2019/10/31,negative,entertainment
+2019/10/31,positive,entertainment
+2019/10/31,neural,science and technology
+2019/10/31,neural,science and technology
+2019/10/31,neural,entertainment
+2019/11/1,neural,business
+2019/11/1,positive,business
+2019/11/1,positive,business
+2019/11/1,neural,business
+2019/11/1,positive,business
+2019/11/2,positive,science and technology
+2019/11/2,positive,business
+2019/11/2,positive,entertainment
+2019/11/2,negative,entertainment
+2019/11/3,neural,entertainment
+2019/11/3,neural,business
+2019/11/3,super positive,health
+2019/11/3,neural,business
+2019/11/3,neural,health
+2019/11/3,super positive,entertainment
+2019/11/4,neural,health
+2019/11/4,neural,business
+2019/11/4,positive,science and technology
+2019/11/4,super positive,entertainment
+2019/11/4,positive,entertainment
+2019/11/4,neural,entertainment
+2019/11/4,neural,entertainment
+2019/11/4,neural,science and technology
+2019/11/4,positive,entertainment
+2019/11/4,neural,entertainment
+2019/11/5,super positive,health
+2019/11/5,neural,business
+2019/11/5,positive,entertainment
+2019/11/5,neural,science and technology
+2019/11/6,neural,entertainment
+2019/11/6,neural,entertainment
+2019/11/6,positive,business
+2019/11/6,neural,science and technology
+2019/11/6,neural,business
+2019/11/6,neural,science and technology
+2019/11/6,neural,entertainment
+2019/11/7,super negative,science and technology
+2019/11/7,neural,entertainment
+2019/11/7,negative,entertainment
+2019/11/7,neural,entertainment
+2019/11/7,super negative,health
+2019/11/8,neural,health
+2019/11/8,neural,science and technology
+2019/11/8,neural,science and technology
+2019/11/8,neural,science and technology
+2019/11/8,super positive,entertainment
+2019/11/8,neural,business
+2019/11/8,positive,science and technology
+2019/11/8,neural,business
+2019/11/8,negative,business
+2019/11/8,negative,business
+2019/11/8,negative,business
+2019/11/8,positive,science and technology
+2019/11/8,super positive,entertainment
+2019/11/9,positive,business
+2019/11/9,neural,science and technology
+2019/11/9,neural,business
+2019/11/9,negative,business
+2019/11/9,neural,entertainment
+2019/11/9,positive,business
+2019/11/9,negative,science and technology
+2019/11/10,positive,science and technology
+2019/11/10,neural,health
+2019/11/10,neural,business
+2019/11/10,positive,science and technology
+2019/11/10,neural,entertainment
+2019/11/11,neural,business
+2019/11/11,neural,entertainment
+2019/11/11,neural,health
+2019/11/11,neural,business
+2019/11/11,neural,entertainment
+2019/11/11,super positive,entertainment
+2019/11/12,neural,science and technology
+2019/11/12,neural,business
+2019/11/12,positive,science and technology
+2019/11/12,neural,business
+2019/11/12,neural,science and technology
+2019/11/12,neural,entertainment
+2019/11/12,neural,health
+2019/11/12,neural,science and technology
+2019/11/12,neural,entertainment
+2019/11/12,super negative,entertainment
+2019/11/12,neural,entertainment
+2019/11/12,positive,science and technology
+2019/11/12,positive,business
+2019/11/13,positive,business
+2019/11/13,neural,science and technology
+2019/11/13,neural,business
+2019/11/13,neural,business
+2019/11/14,positive,science and technology
+2019/11/14,neural,science and technology
+2019/11/14,neural,business
+2019/11/14,neural,health
+2019/11/14,neural,science and technology
+2019/11/14,neural,entertainment
+2019/11/14,super positive,business
+2019/11/14,neural,business
+2019/11/15,neural,business
+2019/11/15,neural,entertainment
+2019/11/15,negative,business
+2019/11/15,neural,entertainment
+2019/11/15,negative,science and technology
+2019/11/15,negative,entertainment
+2019/11/15,positive,entertainment
+2019/11/15,super positive,business
+2019/11/15,neural,business
+2019/11/15,neural,entertainment
+2019/11/15,neural,health
+2019/11/15,neural,business
+2019/11/16,neural,business
+2019/11/16,neural,science and technology
+2019/11/16,neural,business
+2019/11/16,neural,science and technology
+2019/11/17,neural,entertainment
+2019/11/17,positive,business
+2019/11/17,neural,entertainment
+2019/11/17,positive,business
+2019/11/18,positive,science and technology
+2019/11/18,negative,health
+2019/11/18,positive,science and technology
+2019/11/18,super positive,entertainment
+2019/11/18,positive,business
+2019/11/18,neural,business
+2019/11/18,super positive,health
+2019/11/18,super positive,business
+2019/11/18,negative,business
+2019/11/18,negative,science and technology
+2019/11/18,neural,science and technology
+2019/11/18,neural,science and technology
+2019/11/18,neural,entertainment
+2019/11/19,positive,business
+2019/11/19,positive,entertainment
+2019/11/19,positive,science and technology
+2019/11/19,neural,business
+2019/11/19,neural,entertainment
+2019/11/19,negative,business
+2019/11/20,negative,business
+2019/11/20,positive,entertainment
+2019/11/20,neural,science and technology
+2019/11/20,neural,science and technology
+2019/11/20,super negative,business
+2019/11/20,positive,business
+2019/11/20,super positive,health
+2019/11/20,neural,business
+2019/11/21,positive,business
+2019/11/21,positive,business
+2019/11/21,neural,entertainment
+2019/11/21,neural,business
+2019/11/21,positive,science and technology
+2019/11/21,super positive,health
+2019/11/21,neural,science and technology
+2019/11/21,negative,science and technology
+2019/11/21,positive,science and technology
+2019/11/21,neural,entertainment
+2019/11/21,negative,business
+2019/11/21,super negative,health
+2019/11/22,negative,health
+2019/11/22,neural,business
+2019/11/22,neural,business
+2019/11/22,neural,science and technology
+2019/11/22,super positive,health
+2019/11/23,neural,business
+2019/11/23,positive,entertainment
+2019/11/23,neural,business
+2019/11/23,positive,science and technology
+2019/11/23,neural,business
+2019/11/23,negative,business
+2019/11/23,positive,business
+2019/11/23,negative,business
+2019/11/24,neural,business
+2019/11/24,negative,business
+2019/11/24,neural,business
+2019/11/24,neural,business
+2019/11/24,negative,entertainment
+2019/11/24,neural,business
+2019/11/24,neural,entertainment
+2019/11/25,neural,business
+2019/11/25,neural,business
+2019/11/25,positive,business
+2019/11/25,positive,business
+2019/11/25,positive,science and technology
+2019/11/25,neural,science and technology
+2019/11/25,neural,business
+2019/11/25,negative,entertainment
+2019/11/25,negative,business
+2019/11/26,negative,business
+2019/11/26,positive,business
+2019/11/26,neural,science and technology
+2019/11/26,neural,business
+2019/11/26,positive,health
+2019/11/26,super positive,entertainment
+2019/11/26,positive,business
+2019/11/26,super positive,science and technology
+2019/11/26,super positive,entertainment
+2019/11/26,neural,entertainment
+2019/11/26,neural,science and technology
+2019/11/26,neural,business
+2019/11/26,positive,business
+2019/11/26,neural,entertainment
+2019/11/26,negative,health
+2019/11/26,super positive,entertainment
+2019/11/26,neural,business
+2019/11/27,neural,business
+2019/11/27,positive,business
+2019/11/27,super negative,business
+2019/11/27,neural,health
+2019/11/27,neural,business
+2019/11/27,positive,business
+2019/11/27,neural,business
+2019/11/27,positive,business
+2019/11/27,super positive,entertainment
+2019/11/27,neural,business
+2019/11/27,neural,science and technology
+2019/11/27,positive,business
+2019/11/27,positive,science and technology
+2019/11/27,positive,science and technology
+2019/11/27,positive,science and technology
+2019/11/28,positive,business
+2019/11/28,neural,business
+2019/11/28,neural,business
+2019/11/28,positive,business
+2019/11/28,negative,science and technology
+2019/11/28,negative,science and technology
+2019/11/28,neural,business
+2019/11/28,neural,health
+2019/11/28,positive,business
+2019/11/29,neural,business
+2019/11/29,neural,business
+2019/11/29,neural,business
+2019/11/29,neural,entertainment
+2019/11/29,neural,entertainment
+2019/11/29,positive,business
+2019/11/29,neural,business
+2019/11/29,neural,science and technology
+2019/11/29,negative,science and technology
+2019/11/29,neural,science and technology
+2019/11/30,neural,business
+2019/11/30,positive,science and technology
+2019/11/30,negative,science and technology
+2019/11/30,positive,entertainment
+2019/11/30,negative,entertainment
+2019/11/30,neural,business
+2019/12/1,neural,entertainment
+2019/12/1,negative,business
+2019/12/1,negative,health
+2019/12/1,neural,health
+2019/12/1,neural,business
+2019/12/1,neural,science and technology
+2019/12/1,super positive,entertainment
+2019/12/2,neural,business
+2019/12/2,neural,business
+2019/12/2,negative,entertainment
+2019/12/2,neural,health
+2019/12/2,neural,business
+2019/12/2,neural,business
+2019/12/2,super positive,entertainment
+2019/12/2,neural,entertainment
+2019/12/2,neural,business
+2019/12/3,neural,business
+2019/12/3,positive,business
+2019/12/3,neural,science and technology
+2019/12/3,positive,business
+2019/12/3,neural,health
+2019/12/3,positive,business
+2019/12/4,super positive,business
+2019/12/4,neural,business
+2019/12/4,positive,business
+2019/12/4,neural,business
+2019/12/4,neural,health
+2019/12/4,negative,business
+2019/12/4,neural,business
+2019/12/4,neural,science and technology
+2019/12/4,positive,business
+2019/12/5,positive,entertainment
+2019/12/5,neural,science and technology
+2019/12/5,negative,business
+2019/12/5,neural,business
+2019/12/5,neural,science and technology
+2019/12/5,positive,science and technology
+2019/12/5,positive,health
+2019/12/5,neural,entertainment
+2019/12/5,positive,science and technology
+2019/12/5,super negative,entertainment
+2019/12/5,neural,business
+2019/12/5,negative,health
+2019/12/5,neural,health
+2019/12/5,positive,entertainment
+2019/12/5,positive,business
+2019/12/5,negative,science and technology
+2019/12/5,super positive,business
+2019/12/5,neural,business
+2019/12/5,negative,entertainment
+2019/12/6,super negative,entertainment
+2019/12/6,neural,business
+2019/12/6,super positive,entertainment
+2019/12/6,neural,entertainment
+2019/12/6,super negative,entertainment
+2019/12/6,neural,business
+2019/12/7,super negative,business
+2019/12/7,neural,health
+2019/12/7,positive,entertainment
+2019/12/7,positive,health
+2019/12/8,neural,business
+2019/12/8,negative,business
+2019/12/8,neural,entertainment
+2019/12/8,negative,entertainment
+2019/12/8,neural,science and technology
+2019/12/8,positive,health
+2019/12/8,neural,entertainment
+2019/12/9,neural,entertainment
+2019/12/9,negative,business
+2019/12/9,neural,business
+2019/12/9,negative,science and technology
+2019/12/9,negative,business
+2019/12/9,super negative,business
+2019/12/9,neural,business
+2019/12/9,neural,health
+2019/12/9,neural,science and technology
+2019/12/9,positive,business
+2019/12/9,super negative,entertainment
+2019/12/9,negative,science and technology
+2019/12/9,neural,health
+2019/12/9,negative,health
+2019/12/9,positive,science and technology
+2019/12/9,neural,business
+2019/12/9,neural,business
+2019/12/9,neural,business
+2019/12/9,positive,health
+2019/12/10,super positive,science and technology
+2019/12/10,positive,entertainment
+2019/12/10,positive,science and technology
+2019/12/10,neural,science and technology
+2019/12/10,neural,science and technology
+2019/12/10,positive,entertainment
+2019/12/10,super negative,health
+2019/12/10,neural,science and technology
+2019/12/10,negative,business
+2019/12/10,positive,science and technology
+2019/12/10,positive,business
+2019/12/10,super positive,entertainment
+2019/12/10,neural,business
+2019/12/10,positive,entertainment
+2019/12/10,neural,business
+2019/12/10,neural,business
+2019/12/10,neural,business
+2019/12/11,negative,business
+2019/12/11,negative,entertainment
+2019/12/11,neural,health
+2019/12/11,positive,business
+2019/12/11,neural,business
+2019/12/11,positive,business
+2019/12/11,neural,business
+2019/12/11,neural,science and technology
+2019/12/11,positive,business
+2019/12/11,neural,business
+2019/12/12,neural,business
+2019/12/12,neural,science and technology
+2019/12/12,neural,business
+2019/12/12,negative,business
+2019/12/12,negative,business
+2019/12/12,neural,science and technology
+2019/12/13,positive,science and technology
+2019/12/13,neural,science and technology
+2019/12/13,neural,science and technology
+2019/12/13,positive,business
+2019/12/13,positive,entertainment
+2019/12/13,neural,business
+2019/12/13,neural,business
+2019/12/13,negative,business
+2019/12/13,neural,business
+2019/12/13,negative,business
+2019/12/13,neural,business
+2019/12/13,neural,business
+2019/12/13,positive,science and technology
+2019/12/13,positive,science and technology
+2019/12/13,neural,business
+2019/12/13,neural,business
+2019/12/13,negative,business
+2019/12/13,neural,health
+2019/12/14,neural,science and technology
+2019/12/14,negative,entertainment
+2019/12/14,super positive,business
+2019/12/14,positive,science and technology
+2019/12/14,super negative,business
+2019/12/14,neural,entertainment
+2019/12/14,positive,science and technology
+2019/12/15,super positive,entertainment
+2019/12/15,negative,business
+2019/12/16,super negative,entertainment
+2019/12/16,neural,entertainment
+2019/12/16,neural,health
+2019/12/16,positive,entertainment
+2019/12/17,negative,science and technology
+2019/12/18,neural,business
+2019/12/18,neural,science and technology
+2019/12/18,negative,entertainment
+2019/12/18,neural,business
+2019/12/18,positive,business
+2019/12/19,positive,entertainment
+2019/12/19,positive,entertainment
+2019/12/19,neural,science and technology
+2019/12/19,neural,business
+2019/12/19,neural,business
+2019/12/19,neural,science and technology
+2019/12/19,positive,business
+2019/12/19,neural,science and technology
+2019/12/19,positive,business
+2019/12/19,neural,business
+2019/12/19,neural,science and technology
+2019/12/19,negative,science and technology
+2019/12/19,neural,science and technology
+2019/12/19,neural,health
+2019/12/20,neural,science and technology
+2019/12/20,neural,entertainment
+2019/12/20,neural,business
+2019/12/20,neural,science and technology
+2019/12/20,positive,entertainment
+2019/12/20,positive,science and technology
+2019/12/20,negative,health
+2019/12/21,neural,entertainment
+2019/12/21,neural,business
+2019/12/21,neural,business
+2019/12/21,neural,science and technology
+2019/12/21,neural,science and technology
+2019/12/21,negative,science and technology
+2019/12/22,neural,business
+2019/12/22,neural,science and technology
+2019/12/22,positive,science and technology
+2019/12/22,super negative,business
+2019/12/22,negative,business
+2019/12/22,neural,business
+2019/12/23,neural,health
+2019/12/23,super negative,entertainment
+2019/12/23,neural,business
+2019/12/23,negative,business
+2019/12/23,negative,health
+2019/12/23,neural,business
+2019/12/23,positive,science and technology
+2019/12/23,positive,business
+2019/12/23,neural,business
+2019/12/23,positive,science and technology
+2019/12/23,negative,health
+2019/12/23,super positive,business
+2019/12/23,neural,business
+2019/12/24,neural,business
+2019/12/25,positive,entertainment
+2019/12/25,super positive,entertainment
+2019/12/25,positive,entertainment
+2019/12/25,neural,entertainment
+2019/12/25,negative,entertainment
+2019/12/25,neural,science and technology
+2019/12/26,neural,business
+2019/12/26,neural,science and technology
+2019/12/26,neural,business
+2019/12/26,neural,business
+2019/12/26,neural,business
+2019/12/26,neural,health
+2019/12/26,neural,science and technology
+2019/12/26,negative,science and technology
+2019/12/26,neural,science and technology
+2019/12/26,positive,science and technology
+2019/12/27,neural,business
+2019/12/27,positive,science and technology
+2019/12/27,neural,science and technology
+2019/12/27,neural,science and technology
+2019/12/27,neural,health
+2019/12/27,positive,business
+2019/12/27,negative,business
+2019/12/27,negative,business
+2019/12/27,super positive,science and technology
+2019/12/28,neural,health
+2019/12/28,neural,business
+2019/12/28,super positive,science and technology
+2019/12/29,super negative,business
+2019/12/29,neural,business
+2019/12/29,neural,entertainment
+2019/12/29,super negative,entertainment
+2019/12/29,neural,entertainment
+2019/12/29,neural,entertainment
+2019/12/29,negative,entertainment
+2019/12/29,neural,entertainment
+2019/12/29,negative,business
+2019/12/30,neural,business
+2019/12/30,negative,business
+2019/12/30,super negative,business
+2019/12/30,neural,entertainment
+2019/12/30,super negative,health
+2019/12/30,neural,business
+2019/12/30,positive,business
+2019/12/30,negative,business
+2019/12/30,neural,business
+2019/12/31,neural,science and technology
+2019/12/31,negative,science and technology
+2020/1/1,neural,science and technology
+2020/1/1,negative,business
+2020/1/1,negative,business
+2020/1/1,neural,business
+2020/1/1,neural,business
+2020/1/1,super negative,business
+2020/1/2,super positive,science and technology
+2020/1/2,super positive,science and technology
+2020/1/2,positive,science and technology
+2020/1/2,positive,entertainment
+2020/1/2,positive,business
+2020/1/2,positive,entertainment
+2020/1/2,super negative,entertainment
+2020/1/3,negative,business
+2020/1/3,neural,business
+2020/1/3,neural,science and technology
+2020/1/3,negative,business
+2020/1/3,positive,health
+2020/1/3,neural,science and technology
+2020/1/3,neural,science and technology
+2020/1/3,neural,science and technology
+2020/1/4,negative,science and technology
+2020/1/4,negative,science and technology
+2020/1/4,neural,business
+2020/1/4,super negative,entertainment
+2020/1/4,neural,business
+2020/1/4,super negative,science and technology
+2020/1/4,neural,business
+2020/1/4,super negative,business
+2020/1/4,neural,business
+2020/1/4,negative,business
+2020/1/4,neural,entertainment
+2020/1/5,negative,business
+2020/1/5,negative,science and technology
+2020/1/5,super positive,entertainment
+2020/1/5,neural,business
+2020/1/5,positive,business
+2020/1/5,negative,business
+2020/1/5,neural,business
+2020/1/5,neural,business
+2020/1/5,negative,health
+2020/1/5,positive,business
+2020/1/5,super negative,business
+2020/1/5,neural,science and technology
+2020/1/5,negative,entertainment
+2020/1/5,positive,science and technology
+2020/1/5,positive,health
+2020/1/6,super negative,business
+2020/1/6,neural,business
+2020/1/6,positive,entertainment
+2020/1/6,super positive,business
+2020/1/6,super positive,science and technology
+2020/1/6,neural,science and technology
+2020/1/6,negative,entertainment
+2020/1/6,negative,business
+2020/1/6,super negative,business
+2020/1/6,positive,entertainment
+2020/1/6,neural,science and technology
+2020/1/6,super positive,science and technology
+2020/1/6,neural,health
+2020/1/6,neural,science and technology
+2020/1/6,positive,health
+2020/1/6,super negative,science and technology
+2020/1/7,neural,science and technology
+2020/1/7,neural,business
+2020/1/7,neural,science and technology
+2020/1/7,neural,business
+2020/1/7,negative,entertainment
+2020/1/7,super negative,business
+2020/1/8,positive,science and technology
+2020/1/8,super negative,business
+2020/1/8,negative,business
+2020/1/8,neural,science and technology
+2020/1/8,super negative,business
+2020/1/8,neural,business
+2020/1/8,negative,business
+2020/1/8,neural,science and technology
+2020/1/8,neural,science and technology
+2020/1/8,negative,business
+2020/1/8,positive,entertainment
+2020/1/8,super negative,science and technology
+2020/1/8,neural,business
+2020/1/8,negative,business
+2020/1/8,positive,health
+2020/1/9,neural,business
+2020/1/9,neural,business
+2020/1/9,neural,entertainment
+2020/1/9,neural,science and technology
+2020/1/9,super positive,science and technology
+2020/1/9,super positive,science and technology
+2020/1/9,neural,science and technology
+2020/1/9,neural,science and technology
+2020/1/9,neural,business
+2020/1/9,super positive,science and technology
+2020/1/9,super negative,science and technology
+2020/1/9,neural,science and technology
+2020/1/9,neural,business
+2020/1/10,positive,entertainment
+2020/1/10,negative,entertainment
+2020/1/10,neural,business
+2020/1/10,neural,science and technology
+2020/1/10,neural,science and technology
+2020/1/10,neural,business
+2020/1/10,positive,science and technology
+2020/1/11,neural,business
+2020/1/11,super negative,entertainment
+2020/1/11,positive,entertainment
+2020/1/11,neural,business
+2020/1/11,positive,entertainment
+2020/1/11,neural,entertainment
+2020/1/11,neural,business
+2020/1/12,super negative,science and technology
+2020/1/12,neural,business
+2020/1/12,negative,business
+2020/1/12,negative,entertainment
+2020/1/12,neural,business
+2020/1/12,positive,business
+2020/1/12,negative,science and technology
+2020/1/12,neural,science and technology
+2020/1/12,neural,business
+2020/1/12,super negative,science and technology
+2020/1/12,neural,science and technology
+2020/1/13,negative,business
+2020/1/13,neural,science and technology
+2020/1/13,neural,entertainment
+2020/1/13,negative,science and technology
+2020/1/13,neural,business
+2020/1/14,neural,business
+2020/1/14,negative,health
+2020/1/14,negative,entertainment
+2020/1/14,neural,business
+2020/1/14,positive,business
+2020/1/14,negative,business
+2020/1/14,neural,business
+2020/1/14,positive,science and technology
+2020/1/14,negative,business
+2020/1/14,positive,business
+2020/1/14,neural,science and technology
+2020/1/14,negative,entertainment
+2020/1/14,positive,business
+2020/1/14,neural,business
+2020/1/14,super negative,business
+2020/1/14,positive,science and technology
+2020/1/14,positive,science and technology
+2020/1/14,negative,entertainment
+2020/1/14,negative,business
+2020/1/15,negative,business
+2020/1/15,neural,science and technology
+2020/1/15,neural,business
+2020/1/15,neural,health
+2020/1/15,neural,science and technology
+2020/1/15,positive,science and technology
+2020/1/15,negative,business
+2020/1/15,negative,business
+2020/1/15,neural,science and technology
+2020/1/15,neural,science and technology
+2020/1/15,positive,business
+2020/1/15,positive,business
+2020/1/15,neural,health
+2020/1/15,neural,science and technology
+2020/1/15,positive,business
+2020/1/15,neural,business
+2020/1/15,neural,science and technology
+2020/1/15,positive,science and technology
+2020/1/16,positive,entertainment
+2020/1/16,positive,science and technology
+2020/1/16,neural,business
+2020/1/16,positive,business
+2020/1/16,neural,business
+2020/1/16,neural,business
+2020/1/16,negative,science and technology
+2020/1/16,neural,entertainment
+2020/1/16,neural,science and technology
+2020/1/16,super positive,business
+2020/1/16,positive,business
+2020/1/16,neural,business
+2020/1/16,neural,business
+2020/1/16,neural,science and technology
+2020/1/16,positive,business
+2020/1/16,super positive,business
+2020/1/16,negative,health
+2020/1/16,super positive,business
+2020/1/16,positive,business
+2020/1/16,neural,health
+2020/1/17,neural,business
+2020/1/17,super negative,entertainment
+2020/1/17,neural,science and technology
+2020/1/17,positive,health
+2020/1/17,neural,science and technology
+2020/1/17,super positive,business
+2020/1/17,neural,science and technology
+2020/1/17,neural,science and technology
+2020/1/17,neural,entertainment
+2020/1/17,positive,business
+2020/1/17,neural,science and technology
+2020/1/17,super negative,science and technology
+2020/1/17,positive,science and technology
+2020/1/17,positive,business
+2020/1/17,neural,business
+2020/1/18,negative,entertainment
+2020/1/18,neural,business
+2020/1/18,neural,business
+2020/1/18,neural,health
+2020/1/19,positive,business
+2020/1/19,negative,business
+2020/1/19,negative,business
+2020/1/19,neural,business
+2020/1/19,neural,entertainment
+2020/1/19,super positive,business
+2020/1/19,positive,business
+2020/1/19,positive,business
+2020/1/19,neural,entertainment
+2020/1/20,neural,science and technology
+2020/1/20,negative,science and technology
+2020/1/20,neural,entertainment
+2020/1/20,neural,business
+2020/1/20,neural,health
+2020/1/20,neural,health
+2020/1/20,super positive,science and technology
+2020/1/20,neural,science and technology
+2020/1/20,neural,business
+2020/1/20,positive,business
+2020/1/20,negative,business
+2020/1/20,positive,business
+2020/1/20,positive,science and technology
+2020/1/20,neural,business
+2020/1/20,neural,business
+2020/1/20,positive,science and technology
+2020/1/20,neural,health
+2020/1/20,neural,business
+2020/1/20,positive,business
+2020/1/20,negative,health
+2020/1/20,negative,business
+2020/1/21,positive,science and technology
+2020/1/21,neural,business
+2020/1/21,positive,business
+2020/1/21,positive,business
+2020/1/21,negative,entertainment
+2020/1/21,positive,science and technology
+2020/1/21,negative,business
+2020/1/21,super negative,science and technology
+2020/1/21,neural,science and technology
+2020/1/21,neural,science and technology
+2020/1/21,super positive,business
+2020/1/21,neural,business
+2020/1/21,neural,business
+2020/1/21,positive,science and technology
+2020/1/22,neural,business
+2020/1/22,negative,business
+2020/1/22,neural,health
+2020/1/22,neural,entertainment
+2020/1/22,neural,science and technology
+2020/1/22,neural,health
+2020/1/22,neural,science and technology
+2020/1/22,neural,business
+2020/1/22,neural,business
+2020/1/22,positive,health
+2020/1/23,negative,health
+2020/1/23,positive,health
+2020/1/23,super positive,health
+2020/1/23,super negative,business
+2020/1/23,positive,business
+2020/1/23,neural,business
+2020/1/23,neural,business
+2020/1/23,super positive,science and technology
+2020/1/23,neural,health
+2020/1/23,neural,business
+2020/1/23,neural,entertainment
+2020/1/23,positive,health
+2020/1/23,neural,business
+2020/1/23,positive,entertainment
+2020/1/23,neural,science and technology
+2020/1/23,neural,business
+2020/1/23,neural,business
+2020/1/23,neural,business
+2020/1/24,neural,business
+2020/1/24,neural,business
+2020/1/24,positive,business
+2020/1/24,super positive,entertainment
+2020/1/24,super negative,business
+2020/1/24,neural,science and technology
+2020/1/24,positive,business
+2020/1/24,negative,business
+2020/1/24,neural,business
+2020/1/24,super positive,science and technology
+2020/1/24,neural,science and technology
+2020/1/24,neural,business
+2020/1/24,neural,health
+2020/1/24,negative,health
+2020/1/24,positive,entertainment
+2020/1/24,positive,business
+2020/1/24,neural,business
+2020/1/24,super negative,business
+2020/1/25,negative,business
+2020/1/25,positive,business
+2020/1/26,neural,business
+2020/1/26,neural,business
+2020/1/26,super negative,entertainment
+2020/1/26,neural,business
+2020/1/27,neural,business
+2020/1/27,positive,science and technology
+2020/1/27,negative,business
+2020/1/27,negative,business
+2020/1/27,negative,business
+2020/1/27,super positive,business
+2020/1/27,neural,science and technology
+2020/1/27,neural,science and technology
+2020/1/27,neural,science and technology
+2020/1/28,neural,science and technology
+2020/1/28,neural,business
+2020/1/28,positive,business
+2020/1/28,positive,science and technology
+2020/1/28,neural,science and technology
+2020/1/28,neural,health
+2020/1/28,neural,science and technology
+2020/1/28,neural,science and technology
+2020/1/29,negative,business
+2020/1/29,positive,business
+2020/1/29,super positive,science and technology
+2020/1/29,positive,business
+2020/1/29,neural,health
+2020/1/29,neural,business
+2020/1/29,neural,business
+2020/1/29,neural,science and technology
+2020/1/29,neural,business
+2020/1/29,neural,business
+2020/1/29,neural,science and technology
+2020/1/29,positive,health
+2020/1/29,neural,science and technology
+2020/1/29,positive,business
+2020/1/29,positive,science and technology
+2020/1/29,positive,entertainment
+2020/1/29,neural,science and technology
+2020/1/29,positive,health
+2020/1/29,positive,science and technology
+2020/1/29,positive,science and technology
+2020/1/29,negative,business
+2020/1/29,neural,business
+2020/1/30,neural,business
+2020/1/30,neural,business
+2020/1/31,neural,science and technology
+2020/1/31,neural,health
+2020/1/31,neural,business
+2020/1/31,negative,health
+2020/1/31,neural,science and technology
+2020/1/31,positive,entertainment
+2020/1/31,neural,business
+2020/1/31,neural,science and technology
+2020/1/31,positive,entertainment
+2020/1/31,neural,business
+2020/1/31,super negative,science and technology
+2020/1/31,neural,science and technology
+2020/1/31,neural,business
+2020/2/1,negative,business
+2020/2/1,negative,health
+2020/2/1,neural,health
+2020/2/1,super negative,business
+2020/2/1,neural,science and technology
+2020/2/1,neural,science and technology
+2020/2/2,neural,business
+2020/2/2,neural,entertainment
+2020/2/2,negative,health
+2020/2/2,neural,health
+2020/2/2,neural,health
+2020/2/2,neural,health
+2020/2/2,positive,science and technology
+2020/2/2,neural,science and technology
+2020/2/2,neural,health
+2020/2/2,neural,business
+2020/2/2,negative,health
+2020/2/3,neural,science and technology
+2020/2/3,neural,business
+2020/2/3,positive,science and technology
+2020/2/3,positive,science and technology
+2020/2/3,neural,science and technology
+2020/2/3,neural,science and technology
+2020/2/3,neural,business
+2020/2/3,neural,business
+2020/2/3,positive,business
+2020/2/3,neural,business
+2020/2/3,positive,science and technology
+2020/2/3,neural,business
+2020/2/3,positive,health
+2020/2/3,neural,entertainment
+2020/2/4,neural,science and technology
+2020/2/4,positive,business
+2020/2/4,positive,business
+2020/2/4,negative,health
+2020/2/4,neural,science and technology
+2020/2/4,neural,health
+2020/2/4,neural,business
+2020/2/4,super negative,health
+2020/2/4,negative,health
+2020/2/4,neural,science and technology
+2020/2/4,negative,business
+2020/2/4,neural,science and technology
+2020/2/4,neural,business
+2020/2/5,neural,entertainment
+2020/2/5,negative,science and technology
+2020/2/5,positive,business
+2020/2/5,neural,science and technology
+2020/2/5,neural,business
+2020/2/5,super negative,health
+2020/2/5,neural,business
+2020/2/5,positive,business
+2020/2/5,positive,business
+2020/2/5,super positive,science and technology
+2020/2/5,negative,health
+2020/2/5,super negative,business
+2020/2/5,super positive,business
+2020/2/5,super positive,business
+2020/2/5,negative,business
+2020/2/5,negative,business
+2020/2/5,neural,science and technology
+2020/2/5,neural,science and technology
+2020/2/5,neural,science and technology
+2020/2/5,neural,business
+2020/2/6,negative,business
+2020/2/6,super positive,business
+2020/2/6,neural,science and technology
+2020/2/6,positive,business
+2020/2/6,super positive,health
+2020/2/6,negative,business
+2020/2/6,neural,science and technology
+2020/2/6,neural,health
+2020/2/6,positive,business
+2020/2/6,positive,science and technology
+2020/2/6,super positive,business
+2020/2/6,positive,business
+2020/2/6,negative,health
+2020/2/6,neural,business
+2020/2/6,positive,health
+2020/2/6,negative,business
+2020/2/6,neural,science and technology
+2020/2/6,positive,business
+2020/2/6,neural,business
+2020/2/6,neural,business
+2020/2/6,negative,business
+2020/2/6,positive,business
+2020/2/6,neural,business
+2020/2/6,neural,science and technology
+2020/2/6,neural,business
+2020/2/6,neural,science and technology
+2020/2/6,neural,science and technology
+2020/2/6,neural,business
+2020/2/7,positive,science and technology
+2020/2/7,super positive,business
+2020/2/7,super negative,business
+2020/2/7,neural,business
+2020/2/7,neural,health
+2020/2/7,neural,health
+2020/2/7,neural,business
+2020/2/7,neural,business
+2020/2/7,neural,science and technology
+2020/2/7,super positive,business
+2020/2/7,super positive,science and technology
+2020/2/7,positive,business
+2020/2/7,positive,science and technology
+2020/2/7,neural,entertainment
+2020/2/7,positive,business
+2020/2/7,negative,science and technology
+2020/2/7,positive,business
+2020/2/7,neural,business
+2020/2/7,neural,entertainment
+2020/2/7,neural,science and technology
+2020/2/7,neural,business
+2020/2/8,super positive,business
+2020/2/8,neural,entertainment
+2020/2/8,negative,science and technology
+2020/2/8,negative,entertainment
+2020/2/8,neural,science and technology
+2020/2/9,neural,business
+2020/2/9,positive,business
+2020/2/9,neural,business
+2020/2/9,super positive,science and technology
+2020/2/9,positive,entertainment
+2020/2/10,positive,business
+2020/2/10,neural,business
+2020/2/10,super positive,business
+2020/2/10,positive,business
+2020/2/10,neural,entertainment
+2020/2/10,positive,health
+2020/2/10,positive,science and technology
+2020/2/10,super positive,business
+2020/2/10,neural,business
+2020/2/10,neural,business
+2020/2/10,neural,science and technology
+2020/2/10,neural,health
+2020/2/10,positive,science and technology
+2020/2/10,positive,health
+2020/2/10,neural,science and technology
+2020/2/11,positive,science and technology
+2020/2/11,super positive,health
+2020/2/11,super positive,business
+2020/2/11,super positive,business
+2020/2/11,positive,health
+2020/2/11,neural,science and technology
+2020/2/11,neural,business
+2020/2/11,negative,business
+2020/2/11,super positive,business
+2020/2/11,neural,business
+2020/2/11,neural,health
+2020/2/11,positive,health
+2020/2/11,negative,business
+2020/2/11,neural,science and technology
+2020/2/11,super negative,health
+2020/2/11,neural,business
+2020/2/11,negative,health
+2020/2/11,positive,business
+2020/2/12,neural,business
+2020/2/12,super positive,entertainment
+2020/2/12,neural,science and technology
+2020/2/12,neural,science and technology
+2020/2/12,neural,health
+2020/2/12,positive,business
+2020/2/12,negative,entertainment
+2020/2/12,neural,entertainment
+2020/2/12,neural,business
+2020/2/12,positive,science and technology
+2020/2/12,neural,science and technology
+2020/2/12,neural,health
+2020/2/12,neural,science and technology
+2020/2/12,neural,entertainment
+2020/2/12,neural,health
+2020/2/13,neural,science and technology
+2020/2/13,negative,business
+2020/2/13,negative,business
+2020/2/13,neural,business
+2020/2/13,neural,health
+2020/2/13,positive,business
+2020/2/13,neural,business
+2020/2/13,negative,science and technology
+2020/2/13,super positive,business
+2020/2/13,positive,business
+2020/2/13,positive,science and technology
+2020/2/13,neural,science and technology
+2020/2/13,neural,science and technology
+2020/2/14,negative,business
+2020/2/14,neural,science and technology
+2020/2/14,neural,business
+2020/2/14,neural,science and technology
+2020/2/14,positive,health
+2020/2/14,negative,science and technology
+2020/2/14,super positive,business
+2020/2/14,negative,business
+2020/2/14,positive,business
+2020/2/14,negative,health
+2020/2/14,neural,business
+2020/2/14,neural,entertainment
+2020/2/14,negative,business
+2020/2/14,positive,science and technology
+2020/2/14,super positive,business
+2020/2/14,neural,health
+2020/2/15,neural,business
+2020/2/15,negative,business
+2020/2/15,neural,business
+2020/2/15,neural,science and technology
+2020/2/15,neural,business
+2020/2/15,neural,science and technology
+2020/2/15,super negative,science and technology
+2020/2/15,positive,business
+2020/2/15,neural,health
+2020/2/15,neural,health
+2020/2/15,neural,entertainment
+2020/2/16,positive,business
+2020/2/16,super negative,health
+2020/2/16,neural,entertainment
+2020/2/16,negative,business
+2020/2/16,positive,health
+2020/2/17,neural,entertainment
+2020/2/17,positive,health
+2020/2/17,neural,business
+2020/2/17,positive,science and technology
+2020/2/17,neural,business
+2020/2/17,positive,entertainment
+2020/2/17,neural,business
+2020/2/17,positive,health
+2020/2/17,neural,science and technology
+2020/2/17,negative,business
+2020/2/17,neural,science and technology
+2020/2/17,neural,health
+2020/2/17,positive,health
+2020/2/17,neural,science and technology
+2020/2/17,positive,entertainment
+2020/2/17,neural,business
+2020/2/17,neural,health
+2020/2/17,neural,entertainment
+2020/2/17,super negative,business
+2020/2/17,neural,business
+2020/2/17,neural,science and technology
+2020/2/17,neural,health
+2020/2/17,negative,science and technology
+2020/2/17,neural,science and technology
+2020/2/17,positive,health
+2020/2/17,super positive,health
+2020/2/18,neural,science and technology
+2020/2/18,neural,science and technology
+2020/2/18,neural,science and technology
+2020/2/18,neural,science and technology
+2020/2/18,neural,entertainment
+2020/2/18,positive,health
+2020/2/18,super negative,entertainment
+2020/2/18,super negative,business
+2020/2/18,neural,business
+2020/2/18,neural,science and technology
+2020/2/18,neural,science and technology
+2020/2/18,positive,science and technology
+2020/2/18,neural,science and technology
+2020/2/18,neural,science and technology
+2020/2/18,neural,science and technology
+2020/2/18,neural,business
+2020/2/18,positive,health
+2020/2/18,neural,science and technology
+2020/2/18,positive,science and technology
+2020/2/18,super positive,business
+2020/2/18,positive,business
+2020/2/18,neural,business
+2020/2/18,neural,science and technology
+2020/2/19,neural,science and technology
+2020/2/19,neural,business
+2020/2/19,negative,science and technology
+2020/2/19,negative,business
+2020/2/19,neural,business
+2020/2/19,neural,entertainment
+2020/2/19,neural,science and technology
+2020/2/19,neural,science and technology
+2020/2/19,neural,business
+2020/2/20,positive,business
+2020/2/20,negative,entertainment
+2020/2/20,super positive,business
+2020/2/20,positive,business
+2020/2/20,positive,science and technology
+2020/2/20,neural,science and technology
+2020/2/20,neural,business
+2020/2/20,neural,science and technology
+2020/2/20,neural,science and technology
+2020/2/20,neural,business
+2020/2/20,negative,science and technology
+2020/2/20,neural,business
+2020/2/20,negative,science and technology
+2020/2/20,positive,health
+2020/2/20,neural,health
+2020/2/20,positive,science and technology
+2020/2/20,neural,entertainment
+2020/2/20,neural,health
+2020/2/20,positive,science and technology
+2020/2/21,negative,business
+2020/2/21,negative,business
+2020/2/21,positive,business
+2020/2/21,negative,business
+2020/2/21,neural,business
+2020/2/21,neural,business
+2020/2/21,neural,business
+2020/2/21,super positive,science and technology
+2020/2/21,negative,health
+2020/2/21,positive,health
+2020/2/21,neural,health
+2020/2/21,neural,business
+2020/2/21,super positive,business
+2020/2/21,super positive,business
+2020/2/21,neural,health
+2020/2/21,neural,business
+2020/2/22,negative,entertainment
+2020/2/22,negative,business
+2020/2/22,negative,business
+2020/2/22,neural,science and technology
+2020/2/22,negative,business
+2020/2/22,positive,entertainment
+2020/2/22,neural,science and technology
+2020/2/22,negative,science and technology
+2020/2/22,positive,business
+2020/2/22,neural,science and technology
+2020/2/22,neural,science and technology
+2020/2/22,neural,health
+2020/2/22,positive,business
+2020/2/23,neural,science and technology
+2020/2/23,neural,entertainment
+2020/2/23,positive,entertainment
+2020/2/23,neural,science and technology
+2020/2/23,negative,health
+2020/2/23,neural,science and technology
+2020/2/23,neural,health
+2020/2/23,negative,entertainment
+2020/2/23,positive,health
+2020/2/23,neural,health
+2020/2/23,neural,health
+2020/2/23,neural,entertainment
+2020/2/24,positive,business
+2020/2/24,neural,business
+2020/2/24,positive,business
+2020/2/24,neural,health
+2020/2/24,neural,science and technology
+2020/2/24,super positive,health
+2020/2/24,neural,business
+2020/2/24,positive,business
+2020/2/24,neural,business
+2020/2/24,neural,business
+2020/2/24,negative,entertainment
+2020/2/24,positive,business
+2020/2/24,negative,health
+2020/2/24,super negative,business
+2020/2/24,neural,health
+2020/2/24,super positive,business
+2020/2/24,super negative,entertainment
+2020/2/24,neural,business
+2020/2/24,super positive,business
+2020/2/24,neural,science and technology
+2020/2/24,neural,health
+2020/2/24,positive,science and technology
+2020/2/24,neural,science and technology
+2020/2/24,neural,entertainment
+2020/2/24,positive,health
+2020/2/24,positive,health
+2020/2/24,negative,entertainment
+2020/2/25,positive,entertainment
+2020/2/25,neural,science and technology
+2020/2/25,neural,business
+2020/2/25,neural,science and technology
+2020/2/25,neural,entertainment
+2020/2/25,neural,business
+2020/2/25,positive,business
+2020/2/25,neural,entertainment
+2020/2/25,neural,science and technology
+2020/2/26,positive,business
+2020/2/26,super positive,health
+2020/2/26,neural,business
+2020/2/26,neural,science and technology
+2020/2/26,neural,health
+2020/2/26,positive,business
+2020/2/26,neural,science and technology
+2020/2/26,neural,business
+2020/2/26,neural,health
+2020/2/26,super positive,health
+2020/2/26,neural,entertainment
+2020/2/26,neural,health
+2020/2/26,negative,health
+2020/2/26,neural,business
+2020/2/26,neural,science and technology
+2020/2/27,neural,science and technology
+2020/2/27,positive,health
+2020/2/27,super positive,business
+2020/2/27,neural,business
+2020/2/27,positive,business
+2020/2/27,neural,health
+2020/2/27,neural,science and technology
+2020/2/27,neural,business
+2020/2/27,negative,business
+2020/2/27,neural,business
+2020/2/27,neural,science and technology
+2020/2/28,neural,business
+2020/2/28,neural,entertainment
+2020/2/28,neural,business
+2020/2/28,positive,science and technology
+2020/2/28,neural,business
+2020/2/28,neural,science and technology
+2020/2/28,neural,business
+2020/2/28,negative,health
+2020/2/28,neural,health
+2020/2/28,negative,health
+2020/2/28,neural,science and technology
+2020/2/28,neural,business
+2020/2/28,neural,business
+2020/2/28,neural,health
+2020/2/28,neural,entertainment
+2020/2/28,negative,science and technology
+2020/2/29,negative,business
+2020/3/1,positive,entertainment
+2020/3/1,positive,entertainment
+2020/3/1,neural,business
+2020/3/1,negative,health
+2020/3/1,positive,entertainment
+2020/3/2,neural,health
+2020/3/2,neural,health
+2020/3/2,neural,health
+2020/3/2,positive,business
+2020/3/2,neural,business
+2020/3/2,negative,health
+2020/3/2,neural,science and technology
+2020/3/2,negative,science and technology
+2020/3/2,negative,health
+2020/3/2,super positive,business
+2020/3/2,negative,business
+2020/3/2,neural,health
+2020/3/3,neural,science and technology
+2020/3/3,neural,health
+2020/3/3,neural,business
+2020/3/3,neural,science and technology
+2020/3/3,positive,business
+2020/3/3,neural,health
+2020/3/3,positive,entertainment
+2020/3/3,neural,health
+2020/3/3,neural,science and technology
+2020/3/3,neural,science and technology
+2020/3/3,neural,business
+2020/3/4,positive,science and technology
+2020/3/4,super positive,entertainment
+2020/3/4,negative,business
+2020/3/4,positive,health
+2020/3/4,negative,science and technology
+2020/3/4,negative,business
+2020/3/4,neural,business
+2020/3/4,neural,health
+2020/3/4,neural,science and technology
+2020/3/4,negative,health
+2020/3/4,neural,science and technology
+2020/3/4,negative,health
+2020/3/4,positive,business
+2020/3/4,super negative,science and technology
+2020/3/4,neural,entertainment
+2020/3/4,neural,science and technology
+2020/3/4,super positive,business
+2020/3/5,negative,health
+2020/3/5,neural,business
+2020/3/5,super positive,science and technology
+2020/3/5,positive,business
+2020/3/5,neural,science and technology
+2020/3/5,neural,business
+2020/3/5,positive,business
+2020/3/5,positive,business
+2020/3/5,positive,health
+2020/3/5,negative,health
+2020/3/5,negative,business
+2020/3/5,positive,business
+2020/3/6,negative,science and technology
+2020/3/6,super positive,business
+2020/3/6,neural,entertainment
+2020/3/6,neural,entertainment
+2020/3/6,neural,business
+2020/3/6,positive,business
+2020/3/6,neural,business
+2020/3/6,positive,business
+2020/3/6,neural,entertainment
+2020/3/6,neural,entertainment
+2020/3/6,neural,science and technology
+2020/3/6,positive,business
+2020/3/6,neural,health
+2020/3/6,neural,science and technology
+2020/3/6,super negative,science and technology
+2020/3/6,super positive,business
+2020/3/6,positive,science and technology
+2020/3/6,negative,business
+2020/3/6,neural,business
+2020/3/6,neural,entertainment
+2020/3/6,negative,health
+2020/3/6,positive,entertainment
+2020/3/6,super negative,health
+2020/3/6,neural,business
+2020/3/6,positive,science and technology
+2020/3/6,negative,entertainment
+2020/3/6,positive,entertainment
+2020/3/6,positive,business
+2020/3/7,neural,health
+2020/3/7,positive,health
+2020/3/7,negative,health
+2020/3/7,positive,health
+2020/3/7,neural,business
+2020/3/7,positive,business
+2020/3/8,positive,business
+2020/3/8,neural,health
+2020/3/8,neural,business
+2020/3/8,neural,health
+2020/3/8,positive,business
+2020/3/9,super negative,business
+2020/3/9,negative,health
+2020/3/9,neural,science and technology
+2020/3/9,super positive,science and technology
+2020/3/9,neural,business
+2020/3/9,super positive,business
+2020/3/9,neural,business
+2020/3/9,neural,business
+2020/3/9,negative,science and technology
+2020/3/9,super positive,science and technology
+2020/3/9,neural,business
+2020/3/9,neural,science and technology
+2020/3/9,negative,entertainment
+2020/3/9,negative,health
+2020/3/9,neural,science and technology
+2020/3/9,negative,business
+2020/3/9,positive,science and technology
+2020/3/9,neural,science and technology
+2020/3/9,positive,business
+2020/3/9,positive,science and technology
+2020/3/9,negative,science and technology
+2020/3/9,super positive,science and technology
+2020/3/9,neural,business
+2020/3/9,positive,entertainment
+2020/3/10,neural,business
+2020/3/10,neural,health
+2020/3/10,neural,science and technology
+2020/3/10,positive,business
+2020/3/10,neural,business
+2020/3/10,positive,science and technology
+2020/3/10,positive,business
+2020/3/10,super positive,business
+2020/3/10,neural,science and technology
+2020/3/10,neural,science and technology
+2020/3/10,positive,science and technology
+2020/3/10,positive,science and technology
+2020/3/10,positive,health
+2020/3/10,neural,health
+2020/3/10,positive,science and technology
+2020/3/10,positive,entertainment
+2020/3/10,super positive,business
+2020/3/10,neural,health
+2020/3/10,neural,health
+2020/3/11,super positive,business
+2020/3/11,neural,business
+2020/3/11,positive,business
+2020/3/11,neural,health
+2020/3/11,positive,health
+2020/3/11,neural,health
+2020/3/11,neural,science and technology
+2020/3/11,neural,business
+2020/3/11,positive,entertainment
+2020/3/11,super negative,health
+2020/3/11,neural,health
+2020/3/11,neural,entertainment
+2020/3/11,positive,health
+2020/3/11,super positive,entertainment
+2020/3/11,negative,health
+2020/3/11,positive,business
+2020/3/11,neural,science and technology
+2020/3/11,neural,science and technology
+2020/3/11,super negative,business
+2020/3/11,neural,science and technology
+2020/3/11,negative,health
+2020/3/11,negative,business
+2020/3/11,neural,business
+2020/3/11,positive,science and technology
+2020/3/12,neural,science and technology
+2020/3/12,positive,business
+2020/3/12,neural,health
+2020/3/12,positive,business
+2020/3/12,neural,health
+2020/3/12,super negative,business
+2020/3/12,super positive,business
+2020/3/12,positive,science and technology
+2020/3/12,neural,science and technology
+2020/3/12,neural,health
+2020/3/12,positive,business
+2020/3/12,super positive,business
+2020/3/12,super negative,business
+2020/3/12,neural,science and technology
+2020/3/12,neural,health
+2020/3/12,neural,health
+2020/3/12,neural,science and technology
+2020/3/12,neural,science and technology
+2020/3/12,positive,business
+2020/3/12,negative,business
+2020/3/12,neural,entertainment
+2020/3/12,neural,science and technology
+2020/3/12,super negative,business
+2020/3/12,neural,health
+2020/3/12,neural,entertainment
+2020/3/12,negative,health
+2020/3/12,negative,business
+2020/3/13,neural,health
+2020/3/13,neural,health
+2020/3/13,neural,business
+2020/3/13,positive,health
+2020/3/13,negative,science and technology
+2020/3/13,negative,business
+2020/3/13,neural,business
+2020/3/13,negative,health
+2020/3/13,positive,science and technology
+2020/3/13,negative,entertainment
+2020/3/13,neural,business
+2020/3/13,positive,entertainment
+2020/3/13,super positive,business
+2020/3/13,positive,business
+2020/3/13,neural,health
+2020/3/13,neural,business
+2020/3/13,super negative,science and technology
+2020/3/14,neural,health
+2020/3/14,neural,health
+2020/3/14,neural,science and technology
+2020/3/15,positive,health
+2020/3/15,positive,health
+2020/3/15,negative,health
+2020/3/15,negative,business
+2020/3/15,positive,health
+2020/3/15,neural,health
+2020/3/15,negative,business
+2020/3/15,neural,health
+2020/3/15,negative,health
+2020/3/16,neural,health
+2020/3/16,neural,business
+2020/3/16,positive,health
+2020/3/16,neural,business
+2020/3/16,negative,entertainment
+2020/3/16,positive,health
+2020/3/16,neural,business
+2020/3/16,negative,health
+2020/3/16,neural,science and technology
+2020/3/16,neural,science and technology
+2020/3/16,positive,business
+2020/3/16,neural,health
+2020/3/16,neural,health
+2020/3/16,positive,science and technology
+2020/3/16,neural,science and technology
+2020/3/16,negative,science and technology
+2020/3/16,positive,business
+2020/3/16,positive,business
+2020/3/16,neural,health
+2020/3/16,neural,health
+2020/3/16,positive,health
+2020/3/16,neural,business
+2020/3/16,neural,science and technology
+2020/3/16,neural,health
+2020/3/16,neural,business
+2020/3/16,positive,business
+2020/3/16,positive,business
+2020/3/16,positive,business
+2020/3/16,neural,business
+2020/3/16,positive,health
+2020/3/16,super positive,health
+2020/3/16,neural,health
+2020/3/16,negative,health
+2020/3/16,neural,science and technology
+2020/3/16,negative,health
+2020/3/17,neural,business
+2020/3/17,neural,business
+2020/3/17,neural,entertainment
+2020/3/17,positive,science and technology
+2020/3/17,positive,science and technology
+2020/3/17,positive,health
+2020/3/17,neural,business
+2020/3/17,neural,business
+2020/3/17,positive,business
+2020/3/17,neural,science and technology
+2020/3/17,neural,business
+2020/3/17,neural,health
+2020/3/17,neural,health
+2020/3/17,neural,entertainment
+2020/3/17,neural,business
+2020/3/17,neural,entertainment
+2020/3/17,negative,business
+2020/3/17,positive,science and technology
+2020/3/17,positive,science and technology
+2020/3/17,neural,business
+2020/3/17,neural,health
+2020/3/17,neural,science and technology
+2020/3/17,neural,business
+2020/3/17,super negative,entertainment
+2020/3/17,neural,business
+2020/3/17,negative,health
+2020/3/17,neural,health
+2020/3/17,neural,business
+2020/3/18,neural,business
+2020/3/18,positive,science and technology
+2020/3/18,positive,health
+2020/3/18,super positive,business
+2020/3/18,neural,business
+2020/3/18,neural,business
+2020/3/18,negative,business
+2020/3/18,neural,health
+2020/3/18,neural,business
+2020/3/18,neural,health
+2020/3/18,neural,business
+2020/3/18,neural,business
+2020/3/18,neural,business
+2020/3/18,neural,business
+2020/3/18,positive,entertainment
+2020/3/18,super negative,entertainment
+2020/3/18,neural,science and technology
+2020/3/18,negative,entertainment
+2020/3/18,positive,business
+2020/3/18,neural,business
+2020/3/18,positive,health
+2020/3/18,positive,business
+2020/3/18,positive,business
+2020/3/19,positive,business
+2020/3/19,negative,science and technology
+2020/3/19,neural,business
+2020/3/19,negative,business
+2020/3/19,neural,science and technology
+2020/3/19,neural,health
+2020/3/19,positive,business
+2020/3/19,super positive,business
+2020/3/19,neural,entertainment
+2020/3/19,neural,business
+2020/3/19,positive,entertainment
+2020/3/19,positive,science and technology
+2020/3/19,negative,science and technology
+2020/3/19,neural,health
+2020/3/19,negative,health
+2020/3/20,positive,business
+2020/3/20,positive,business
+2020/3/20,super positive,science and technology
+2020/3/20,neural,business
+2020/3/20,neural,science and technology
+2020/3/20,super positive,science and technology
+2020/3/20,positive,health
+2020/3/20,super positive,health
+2020/3/20,positive,health
+2020/3/20,positive,business
+2020/3/20,neural,business
+2020/3/20,positive,health
+2020/3/20,super positive,health
+2020/3/20,neural,business
+2020/3/20,super negative,business
+2020/3/20,positive,health
+2020/3/20,neural,health
+2020/3/20,positive,health
+2020/3/20,neural,business
+2020/3/20,neural,science and technology
+2020/3/20,neural,science and technology
+2020/3/20,negative,health
+2020/3/20,neural,health
+2020/3/20,neural,science and technology
+2020/3/20,neural,science and technology
+2020/3/20,neural,health
+2020/3/20,neural,health
+2020/3/20,neural,business
+2020/3/20,negative,science and technology
+2020/3/20,negative,science and technology
+2020/3/20,neural,science and technology
+2020/3/20,super positive,science and technology
+2020/3/20,neural,business
+2020/3/20,neural,health
+2020/3/20,neural,business
+2020/3/20,neural,business
+2020/3/21,negative,health
+2020/3/21,positive,health
+2020/3/21,positive,entertainment
+2020/3/21,negative,entertainment
+2020/3/21,neural,science and technology
+2020/3/21,negative,health
+2020/3/22,super positive,entertainment
+2020/3/22,positive,health
+2020/3/22,neural,business
+2020/3/22,neural,business
+2020/3/22,negative,business
+2020/3/22,neural,health
+2020/3/22,positive,health
+2020/3/22,negative,health
+2020/3/22,neural,health
+2020/3/22,neural,health
+2020/3/22,super negative,health
+2020/3/22,neural,health
+2020/3/22,positive,health
+2020/3/22,neural,business
+2020/3/23,super positive,science and technology
+2020/3/23,positive,science and technology
+2020/3/23,positive,business
+2020/3/23,neural,business
+2020/3/23,neural,business
+2020/3/23,positive,business
+2020/3/23,neural,business
+2020/3/23,neural,business
+2020/3/23,neural,science and technology
+2020/3/23,positive,business
+2020/3/23,negative,business
+2020/3/23,neural,business
+2020/3/23,neural,business
+2020/3/23,neural,business
+2020/3/23,super positive,business
+2020/3/23,neural,business
+2020/3/23,positive,business
+2020/3/23,neural,business
+2020/3/24,neural,business
+2020/3/24,neural,science and technology
+2020/3/24,positive,business
+2020/3/24,neural,business
+2020/3/24,neural,health
+2020/3/24,neural,health
+2020/3/24,positive,business
+2020/3/24,neural,science and technology
+2020/3/24,neural,science and technology
+2020/3/24,neural,business
+2020/3/24,neural,business
+2020/3/24,neural,health
+2020/3/24,neural,business
+2020/3/24,neural,health
+2020/3/24,positive,science and technology
+2020/3/24,neural,health
+2020/3/24,super negative,business
+2020/3/24,positive,health
+2020/3/24,negative,health
+2020/3/24,negative,health
+2020/3/24,neural,business
+2020/3/24,positive,health
+2020/3/24,neural,health
+2020/3/24,neural,health
+2020/3/24,neural,business
+2020/3/24,neural,entertainment
+2020/3/25,negative,entertainment
+2020/3/25,neural,health
+2020/3/25,positive,business
+2020/3/25,positive,health
+2020/3/25,super negative,health
+2020/3/25,neural,science and technology
+2020/3/25,neural,health
+2020/3/25,neural,health
+2020/3/25,positive,science and technology
+2020/3/25,neural,entertainment
+2020/3/25,positive,business
+2020/3/26,positive,business
+2020/3/26,neural,business
+2020/3/26,neural,science and technology
+2020/3/26,negative,business
+2020/3/26,super positive,business
+2020/3/26,neural,entertainment
+2020/3/26,neural,health
+2020/3/26,neural,science and technology
+2020/3/26,positive,entertainment
+2020/3/26,neural,health
+2020/3/26,neural,entertainment
+2020/3/26,neural,science and technology
+2020/3/26,neural,business
+2020/3/26,neural,science and technology
+2020/3/26,positive,health
+2020/3/26,negative,business
+2020/3/26,neural,science and technology
+2020/3/26,positive,science and technology
+2020/3/26,neural,science and technology
+2020/3/26,neural,health
+2020/3/26,negative,science and technology
+2020/3/26,positive,business
+2020/3/26,positive,science and technology
+2020/3/26,positive,science and technology
+2020/3/26,neural,science and technology
+2020/3/26,super positive,science and technology
+2020/3/26,neural,health
+2020/3/26,neural,business
+2020/3/26,neural,business
+2020/3/26,negative,business
+2020/3/26,super positive,business
+2020/3/26,neural,business
+2020/3/26,neural,science and technology
+2020/3/27,neural,business
+2020/3/27,neural,science and technology
+2020/3/27,neural,business
+2020/3/27,neural,health
+2020/3/27,negative,business
+2020/3/27,neural,science and technology
+2020/3/27,negative,health
+2020/3/27,neural,science and technology
+2020/3/27,positive,business
+2020/3/27,negative,entertainment
+2020/3/27,neural,health
+2020/3/27,positive,business
+2020/3/27,neural,health
+2020/3/27,super positive,health
+2020/3/27,positive,health
+2020/3/27,negative,business
+2020/3/27,super negative,health
+2020/3/27,neural,health
+2020/3/27,positive,health
+2020/3/27,neural,business
+2020/3/27,positive,science and technology
+2020/3/27,positive,business
+2020/3/27,neural,health
+2020/3/28,neural,business
+2020/3/28,positive,business
+2020/3/28,neural,science and technology
+2020/3/28,neural,health
+2020/3/28,super positive,business
+2020/3/28,neural,business
+2020/3/28,neural,entertainment
+2020/3/29,neural,health
+2020/3/29,super positive,science and technology
+2020/3/29,positive,business
+2020/3/29,neural,health
+2020/3/29,neural,business
+2020/3/29,neural,science and technology
+2020/3/29,neural,science and technology
+2020/3/29,neural,health
+2020/3/29,super negative,business
+2020/3/29,neural,health
+2020/3/29,positive,business
+2020/3/29,neural,science and technology
+2020/3/29,neural,business
+2020/3/29,neural,science and technology
+2020/3/29,negative,science and technology
+2020/3/30,neural,science and technology
+2020/3/30,neural,health
+2020/3/30,super positive,business
+2020/3/30,positive,science and technology
+2020/3/30,positive,business
